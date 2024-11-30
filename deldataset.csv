@@ -1,0 +1,270 @@
+Location,Rural/Urban,School Category ,School Management,Primary (I-V),Secondary (IX-X),Higher Secondary (XI-XII)
+Central,Urban ,HSS (I-XII),Department of Education,4752,3300,2894
+Central,Urban ,HSS (IX-XII),Department of Education,0,20,20
+Central,Urban , HSS (VI-XII),Department of Education,0,2277,1531
+Central,Urban ,SS (VI-X),Department of Education,0,460,0
+Central,Urban ,UPS (I-VIII) ,Department of Education,81,0,0
+Central,Urban ,UPS (VI-VIII) ,Department of Education,0,0,0
+Central,Urban ,HSS (I-XII),Government Aided,4706,2839,2894
+Central,Urban ,HSS (IX-XII),Government Aided,0,54,74
+Central,Urban , HSS (VI-XII),Government Aided,0,4537,5586
+Central,Urban ,PS (I-V) ,Government Aided,3280,0,0
+Central,Urban , SS (I-X) ,Government Aided,434,283,0
+Central,Urban ,SS (VI-X),Government Aided,0,234,0
+Central,Urban ,UPS (I-VIII) ,Government Aided,242,0,0
+Central,Urban ,UPS (VI-VIII) ,Government Aided,0,0,0
+Central,Urban ,PS (I-V) ,Local body,13879,0,0
+Central,Urban ,HSS (I-XII),Private Unaided (Recognized),10124,5396,5143
+Central,Urban , HSS (VI-XII),Private Unaided (Recognized),0,308,308
+Central,Urban ,PS (I-V) ,Private Unaided (Recognized),2343,0,0
+Central,Urban , SS (I-X) ,Private Unaided (Recognized),669,243,0
+Central,Urban ,SS (VI-X),Private Unaided (Recognized),0,128,0
+Central,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),809,0,0
+Central,Urban ,HSS (I-XII),Social welfare Department,119,181,227
+East,Urban ,HSS (I-XII),Department of Education,19033,32717,32261
+East,Urban ,HSS (IX-XII),Department of Education,0,198,97
+East,Urban , HSS (VI-XII),Department of Education,0,15766,14377
+East,Urban , SS (I-X) ,Department of Education,118,243,0
+East,Urban ,SS (VI-X),Department of Education,0,3594,0
+East,Urban ,HSS (I-XII),Government Aided,1325,850,920
+East,Urban , HSS (VI-XII),Government Aided,0,853,736
+East,Urban ,PS (I-V) ,Government Aided,1900,0,0
+East,Urban , SS (I-X) ,Government Aided,228,112,0
+East,Urban ,SS (VI-X),Government Aided,0,12,0
+East,Urban ,UPS (I-VIII) ,Government Aided,135,0,0
+East,Urban ,UPS (VI-VIII) ,Government Aided,0,0,0
+East,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,5070,2176,1880
+East,Urban , SS (I-X) ,Kendriya Vidyalaya / Central School,238,47,0
+East,Rural,PS (I-V) ,Local body,176,0,0
+East,Urban ,PS (I-V) ,Local body,72595,0,0
+East,Urban ,HSS (I-XII),Private Unaided (Recognized),41993,21265,22706
+East,Urban ,PS (I-V) ,Private Unaided (Recognized),17367,0,0
+East,Urban , SS (I-X) ,Private Unaided (Recognized),3011,1727,0
+East,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),15371,0,0
+East,Urban ,UPS (VI-VIII) ,Private Unaided (Recognized),0,0,0
+East,Urban ,PS (I-V) ,Social welfare Department,39,0,0
+New Delhi,Urban ,HSS (I-XII),Department of Education,321,258,367
+New Delhi,Urban , HSS (VI-XII),Department of Education,0,136,73
+New Delhi,Urban ,HSS (I-XII),Government Aided,5346,3193,3186
+New Delhi,Urban , HSS (VI-XII),Government Aided,0,268,262
+New Delhi,Urban ,PS (I-V) ,Government Aided,198,0,0
+New Delhi,Urban , SS (I-X) ,Government Aided,435,294,0
+New Delhi,Urban ,UPS (I-VIII) ,Government Aided,5,0,0
+New Delhi,Urban ,UPS (VI-VIII) ,Government Aided,0,0,0
+New Delhi,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,3992,1589,1764
+New Delhi,Urban ,HSS (I-XII),Local body,6595,3915,4289
+New Delhi,Urban ,PS (I-V) ,Local body,3189,0,0
+New Delhi,Urban , SS (I-X) ,Local body,1387,580,0
+New Delhi,Urban ,UPS (I-VIII) ,Local body,175,0,0
+New Delhi,Urban ,HSS (I-XII),Private Unaided (Recognized),8296,3801,3697
+New Delhi,Urban , HSS (VI-XII),Private Unaided (Recognized),0,705,742
+New Delhi,Urban ,PS (I-V) ,Private Unaided (Recognized),1873,0,0
+New Delhi,Urban , SS (I-X) ,Private Unaided (Recognized),447,103,0
+New Delhi,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),262,0,0
+North,Urban ,HSS (I-XII),Department of Education,8546,9798,10862
+North,Urban ,HSS (IX-XII),Department of Education,0,95,0
+North,Urban , HSS (VI-XII),Department of Education,0,7853,7488
+North,Rural, SS (I-X) ,Department of Education,131,105,0
+North,Urban , SS (I-X) ,Department of Education,139,36,0
+North,Rural,SS (VI-X),Department of Education,0,178,0
+North,Urban ,SS (VI-X),Department of Education,0,2156,0
+North,Urban ,UPS (VI-VIII) ,Department of Education,0,0,0
+North,Urban ,HSS (I-XII),Government Aided,6063,4053,3760
+North,Urban , HSS (VI-XII),Government Aided,0,1413,1276
+North,Urban ,PS (I-V) ,Government Aided,212,0,0
+North,Urban , SS (I-X) ,Government Aided,287,105,0
+North,Urban ,SS (VI-X),Government Aided,0,351,0
+North,Urban ,UPS (I-VIII) ,Government Aided,99,0,0
+North,Urban ,UPS (VI-VIII) ,Government Aided,0,0,0
+North,Rural,PS (I-V) ,Local body,1139,0,0
+North,Urban ,PS (I-V) ,Local body,33216,0,0
+North,Urban ,HSS (I-XII),Private Unaided (Recognized),10327,5185,3735
+North,Rural,PS (I-V) ,Private Unaided (Recognized),165,0,0
+North,Urban ,PS (I-V) ,Private Unaided (Recognized),7811,0,0
+North,Rural, SS (I-X) ,Private Unaided (Recognized),142,32,0
+North,Urban , SS (I-X) ,Private Unaided (Recognized),3609,995,0
+North,Urban ,SS (VI-X),Private Unaided (Recognized),0,10,0
+North,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),4715,0,0
+North East,Rural,HSS (I-XII),Department of Education,277,262,212
+North East,Urban ,HSS (I-XII),Department of Education,12619,28922,28802
+North East,Urban ,HSS (IX-XII),Department of Education,0,40,0
+North East,Rural, HSS (VI-XII),Department of Education,0,1511,1170
+North East,Urban , HSS (VI-XII),Department of Education,0,49094,44490
+North East,Urban ,SS (VI-X),Department of Education,0,5177,0
+North East,Urban ,UPS (VI-VIII) ,Department of Education,0,0,0
+North East,Urban ,HSS (I-XII),Government Aided,1593,712,476
+North East,Urban , HSS (VI-XII),Government Aided,0,650,663
+North East,Urban ,PS (I-V) ,Government Aided,188,0,0
+North East,Urban ,SS (VI-X),Government Aided,0,734,0
+North East,Urban ,UPS (I-VIII) ,Government Aided,130,0,0
+North East,Urban ,UPS (VI-VIII) ,Government Aided,0,0,0
+North East,Rural,PS (I-V) ,Local body,6618,0,0
+North East,Urban ,PS (I-V) ,Local body,121516,0,0
+North East,Urban ,HSS (I-XII),Private Unaided (Recognized),15413,9347,8941
+North East,Urban , HSS (VI-XII),Private Unaided (Recognized),0,159,130
+North East,Rural,PS (I-V) ,Private Unaided (Recognized),23,0,0
+North East,Urban ,PS (I-V) ,Private Unaided (Recognized),23438,0,0
+North East,Urban , SS (I-X) ,Private Unaided (Recognized),11691,4299,0
+North East,Urban ,SS (VI-X),Private Unaided (Recognized),0,313,0
+North East,Rural,UPS (I-VIII) ,Private Unaided (Recognized),901,0,0
+North East,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),42993,0,0
+North East,Urban ,UPS (VI-VIII) ,Private Unaided (Recognized),0,0,0
+North West A,Rural,HSS (I-XII),Department of Education,329,404,383
+North West A,Urban ,HSS (I-XII),Department of Education,10140,16574,15706
+North West A,Urban ,HSS (IX-XII),Department of Education,0,1108,531
+North West A,Rural, HSS (VI-XII),Department of Education,0,1077,936
+North West A,Urban , HSS (VI-XII),Department of Education,0,25494,20935
+North West A,Urban , SS (I-X) ,Department of Education,67,135,0
+North West A,Urban ,SS (VI-X),Department of Education,0,2420,0
+North West A,Urban ,UPS (VI-VIII) ,Department of Education,0,0,0
+North West A,Urban ,HSS (I-XII),Government Aided,1092,734,802
+North West A,Rural, HSS (VI-XII),Government Aided,0,25,38
+North West A,Urban , HSS (VI-XII),Government Aided,0,1037,910
+North West A,Urban ,PS (I-V) ,Government Aided,103,0,0
+North West A,Urban ,SS (VI-X),Government Aided,0,7,0
+North West A,Urban ,UPS (VI-VIII) ,Government Aided,0,0,0
+North West A,Urban , HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,129,118
+North West A,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,2393,976,1106
+North West A,Rural,PS (I-V) ,Local body,8105,0,0
+North West A,Urban ,PS (I-V) ,Local body,91313,0,0
+North West A,Rural,HSS (I-XII),Private Unaided (Recognized),1798,836,984
+North West A,Urban ,HSS (I-XII),Private Unaided (Recognized),25223,11439,12270
+North West A,Rural,PS (I-V) ,Private Unaided (Recognized),746,0,0
+North West A,Urban ,PS (I-V) ,Private Unaided (Recognized),5063,0,0
+North West A,Rural, SS (I-X) ,Private Unaided (Recognized),476,135,0
+North West A,Urban , SS (I-X) ,Private Unaided (Recognized),2240,641,0
+North West A,Rural,UPS (I-VIII) ,Private Unaided (Recognized),2025,0,0
+North West A,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),12290,0,0
+North West A,Urban ,UPS (VI-VIII) ,Private Unaided (Recognized),0,0,0
+North West A,Urban ,HSS (I-XII),Social welfare Department,11,32,36
+North West B,Rural,HSS (I-XII),Department of Education,287,315,333
+North West B,Urban ,HSS (I-XII),Department of Education,23185,32777,32475
+North West B,Urban ,HSS (IX-XII),Department of Education,0,413,149
+North West B,Rural, HSS (VI-XII),Department of Education,0,107,109
+North West B,Urban , HSS (VI-XII),Department of Education,0,20962,17686
+North West B,Urban ,SS (VI-X),Department of Education,0,1310,0
+North West B,Rural,UPS (VI-VIII) ,Department of Education,0,0,0
+North West B,Urban ,UPS (VI-VIII) ,Department of Education,0,0,0
+North West B,Urban ,HSS (I-XII),Government Aided,410,374,433
+North West B,Urban , HSS (VI-XII),Government Aided,0,97,167
+North West B,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,6510,2582,2828
+North West B,Rural,PS (I-V) ,Local body,2874,0,0
+North West B,Urban ,PS (I-V) ,Local body,90965,0,0
+North West B,Rural,HSS (I-XII),Private Unaided (Recognized),363,136,587
+North West B,Urban ,HSS (I-XII),Private Unaided (Recognized),64895,29103,27823
+North West B,Urban , HSS (VI-XII),Private Unaided (Recognized),0,463,393
+North West B,Rural,PS (I-V) ,Private Unaided (Recognized),120,0,0
+North West B,Urban ,PS (I-V) ,Private Unaided (Recognized),7450,0,0
+North West B,Rural, SS (I-X) ,Private Unaided (Recognized),329,80,0
+North West B,Urban , SS (I-X) ,Private Unaided (Recognized),8068,2114,0
+North West B,Rural,UPS (I-VIII) ,Private Unaided (Recognized),836,0,0
+North West B,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),16897,0,0
+North West B,Urban ,UPS (I-VIII) ,Social welfare Department,104,0,0
+South,Urban ,HSS (I-XII),Department of Education,7791,12547,11866
+South,Urban , HSS (VI-XII),Department of Education,0,14985,14699
+South,Urban , SS (I-X) ,Department of Education,398,745,0
+South,Urban ,SS (VI-X),Department of Education,0,2620,0
+South,Urban ,HSS (I-XII),Government Aided,460,358,187
+South,Urban , HSS (VI-XII),Government Aided,0,160,177
+South,Urban ,PS (I-V) ,Government Aided,834,0,0
+South,Urban , SS (I-X) ,Government Aided,29,29,0
+South,Urban ,UPS (I-VIII) ,Government Aided,327,0,0
+South,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,2397,975,1082
+South,Rural,PS (I-V) ,Local body,739,0,0
+South,Urban ,PS (I-V) ,Local body,49928,0,0
+South,Rural,HSS (I-XII),Private Unaided (Recognized),198,104,162
+South,Urban ,HSS (I-XII),Private Unaided (Recognized),27250,12437,11076
+South,Urban ,PS (I-V) ,Private Unaided (Recognized),5824,0,0
+South,Urban , SS (I-X) ,Private Unaided (Recognized),3660,1176,0
+South,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),9888,0,0
+South East,Urban ,HSS (I-XII),Department of Education,10760,20277,21150
+South East,Urban ,HSS (IX-XII),Department of Education,0,219,118
+South East,Urban , HSS (VI-XII),Department of Education,0,28381,25508
+South East,Urban , SS (I-X) ,Department of Education,660,2216,0
+South East,Urban ,SS (VI-X),Department of Education,0,1638,0
+South East,Urban ,UPS (I-VIII) ,Department of Education,148,0,0
+South East,Urban ,HSS (I-XII),Government Aided,1846,1148,1282
+South East,Urban , HSS (VI-XII),Government Aided,0,964,1117
+South East,Urban ,PS (I-V) ,Government Aided,382,0,0
+South East,Urban ,SS (VI-X),Government Aided,0,40,0
+South East,Urban ,UPS (I-VIII) ,Government Aided,46,0,0
+South East,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,5255,2190,2438
+South East,Urban ,PS (I-V) ,Local body,84508,0,0
+South East,Urban ,HSS (I-XII),Private Unaided (Recognized),28535,13863,13186
+South East,Urban ,HSS (IX-XII),Private Unaided (Recognized),0,758,1153
+South East,Urban ,PS (I-V) ,Private Unaided (Recognized),13993,0,0
+South East,Urban , SS (I-X) ,Private Unaided (Recognized),4654,1387,0
+South East,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),15972,0,0
+South East,Urban , SS (I-X) ,Social welfare Department,120,52,0
+South West A,Urban ,HSS (I-XII),Department of Education,6692,8502,7824
+South West A,Urban , HSS (VI-XII),Department of Education,0,3774,3441
+South West A,Urban ,UPS (VI-VIII) ,Department of Education,0,0,0
+South West A,Urban ,HSS (I-XII),Government Aided,2760,1729,1667
+South West A,Urban , HSS (VI-XII),Government Aided,0,21,18
+South West A,Urban ,PS (I-V) ,Government Aided,544,0,0
+South West A,Urban , SS (I-X) ,Government Aided,226,96,0
+South West A,Urban ,UPS (I-VIII) ,Government Aided,128,0,0
+South West A,Urban ,UPS (VI-VIII) ,Government Aided,0,0,0
+South West A,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,13429,5194,5786
+South West A,Urban , SS (I-X) ,Kendriya Vidyalaya / Central School,682,249,0
+South West A,Urban ,HSS (I-XII),Local body,1762,519,418
+South West A,Urban ,PS (I-V) ,Local body,23378,0,0
+South West A,Urban ,HSS (I-XII),Private Unaided (Recognized),27823,12910,13694
+South West A,Urban ,PS (I-V) ,Private Unaided (Recognized),3502,0,0
+South West A,Urban , SS (I-X) ,Private Unaided (Recognized),1237,304,0
+South West A,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),1846,0,0
+South West B,Rural,HSS (I-XII),Department of Education,1375,1079,1276
+South West B,Urban ,HSS (I-XII),Department of Education,8606,10200,10371
+South West B,Urban ,HSS (IX-XII),Department of Education,0,434,140
+South West B,Rural, HSS (VI-XII),Department of Education,0,2131,2072
+South West B,Urban , HSS (VI-XII),Department of Education,0,15815,16201
+South West B,Rural,SS (VI-X),Department of Education,0,40,0
+South West B,Urban ,SS (VI-X),Department of Education,0,1154,0
+South West B,Urban , HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,153,161
+South West B,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,5431,2182,2130
+South West B,Rural,PS (I-V) ,Local body,6889,0,0
+South West B,Urban ,PS (I-V) ,Local body,52332,0,0
+South West B,Rural,HSS (I-XII),Private Unaided (Recognized),6135,2853,3471
+South West B,Urban ,HSS (I-XII),Private Unaided (Recognized),53869,21282,21249
+South West B,Rural,PS (I-V) ,Private Unaided (Recognized),384,0,0
+South West B,Urban ,PS (I-V) ,Private Unaided (Recognized),7751,0,0
+South West B,Rural, SS (I-X) ,Private Unaided (Recognized),1805,964,0
+South West B,Urban , SS (I-X) ,Private Unaided (Recognized),9469,2660,0
+South West B,Rural,UPS (I-VIII) ,Private Unaided (Recognized),1345,0,0
+South West B,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),13413,0,0
+South West B,Rural,HSS (I-XII),Social welfare Department,267,175,77
+West A,Urban ,HSS (I-XII),Department of Education,9880,12472,11337
+West A,Urban ,HSS (IX-XII),Department of Education,0,27,22
+West A,Urban , HSS (VI-XII),Department of Education,0,8787,7452
+West A,Urban ,SS (VI-X),Department of Education,0,501,0
+West A,Urban ,HSS (I-XII),Government Aided,941,787,1055
+West A,Urban , HSS (VI-XII),Government Aided,0,1058,1017
+West A,Urban ,PS (I-V) ,Government Aided,1049,0,0
+West A,Urban ,SS (VI-X),Government Aided,0,570,0
+West A,Urban ,UPS (I-VIII) ,Government Aided,196,0,0
+West A,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,1140,447,466
+West A,Urban ,PS (I-V) ,Local body,41546,0,0
+West A,Urban ,HSS (I-XII),Private Unaided (Recognized),16054,7319,7353
+West A,Urban , HSS (VI-XII),Private Unaided (Recognized),0,657,704
+West A,Urban ,PS (I-V) ,Private Unaided (Recognized),4479,0,0
+West A,Urban , SS (I-X) ,Private Unaided (Recognized),2816,1164,0
+West A,Urban ,SS (VI-X),Private Unaided (Recognized),0,134,0
+West A,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),3583,0,0
+West A,Urban ,UPS (VI-VIII) ,Private Unaided (Recognized),0,0,0
+West B,Rural,HSS (I-XII),Department of Education,195,182,161
+West B,Urban ,HSS (I-XII),Department of Education,11721,19430,20912
+West B,Urban , HSS (VI-XII),Department of Education,0,24170,22692
+West B,Urban ,SS (VI-X),Department of Education,0,3169,0
+West B,Urban ,HSS (I-XII),Government Aided,1559,718,710
+West B,Urban , HSS (VI-XII),Government Aided,0,11,26
+West B,Urban ,SS (VI-X),Government Aided,0,480,0
+West B,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,4534,1959,2074
+West B,Urban , SS (I-X) ,Kendriya Vidyalaya / Central School,400,77,0
+West B,Rural,PS (I-V) ,Local body,515,0,0
+West B,Urban ,PS (I-V) ,Local body,78400,0,0
+West B,Rural,HSS (I-XII),Private Unaided (Recognized),443,250,255
+West B,Urban ,HSS (I-XII),Private Unaided (Recognized),47281,21013,20792
+West B,Urban ,PS (I-V) ,Private Unaided (Recognized),11056,0,0
+West B,Urban , SS (I-X) ,Private Unaided (Recognized),12608,3921,0
+West B,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),21086,0,0
+Total,,,,1754430,725275,648002

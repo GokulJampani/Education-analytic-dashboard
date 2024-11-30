@@ -1,0 +1,838 @@
+Location,Rural/Urban,School Category ,School Management,Primary (I-V),Secondary (IX-X),Higher Secondary (XI-XII)
+ALAPPUZHA,Rural,HSS (I-XII),Department of Education,2513,2283,4280
+ALAPPUZHA,Urban ,HSS (I-XII),Department of Education,59,41,325
+ALAPPUZHA,Rural,HSS (IX-XII),Department of Education,0,526,358
+ALAPPUZHA,Urban ,HSS (IX-XII),Department of Education,0,435,915
+ALAPPUZHA,Rural, HSS (VI-XII),Department of Education,886,2992,5065
+ALAPPUZHA,Urban , HSS (VI-XII),Department of Education,554,2380,4221
+ALAPPUZHA,Rural,HSS (XI-XII),Department of Education,0,0,138
+ALAPPUZHA,Rural,PS (I-V) ,Department of Education,12784,0,0
+ALAPPUZHA,Urban ,PS (I-V) ,Department of Education,3109,0,0
+ALAPPUZHA,Rural, SS (I-X) ,Department of Education,1596,1190,0
+ALAPPUZHA,Rural,SS (IX-X),Department of Education,0,182,0
+ALAPPUZHA,Urban ,SS (IX-X),Department of Education,0,24,0
+ALAPPUZHA,Rural,SS (VI-X),Department of Education,176,314,0
+ALAPPUZHA,Rural,UPS (I-VIII) ,Department of Education,10538,0,0
+ALAPPUZHA,Urban ,UPS (I-VIII) ,Department of Education,2180,0,0
+ALAPPUZHA,Urban ,UPS (VI-VIII) ,Department of Education,116,0,0
+ALAPPUZHA,Rural,HSS (I-XII),Government Aided,1461,1301,1451
+ALAPPUZHA,Urban ,HSS (I-XII),Government Aided,310,551,677
+ALAPPUZHA,Rural,HSS (IX-XII),Government Aided,0,4895,7557
+ALAPPUZHA,Urban ,HSS (IX-XII),Government Aided,0,875,2484
+ALAPPUZHA,Rural, HSS (VI-XII),Government Aided,2910,10506,13858
+ALAPPUZHA,Urban , HSS (VI-XII),Government Aided,1030,3403,5651
+ALAPPUZHA,Rural,PS (I-V) ,Government Aided,12772,0,0
+ALAPPUZHA,Urban ,PS (I-V) ,Government Aided,4069,0,0
+ALAPPUZHA,Rural, SS (I-X) ,Government Aided,1427,1328,0
+ALAPPUZHA,Urban , SS (I-X) ,Government Aided,728,635,0
+ALAPPUZHA,Rural,SS (IX-X),Government Aided,0,1383,0
+ALAPPUZHA,Rural,SS (VI-X),Government Aided,1755,5575,0
+ALAPPUZHA,Urban ,SS (VI-X),Government Aided,676,2232,0
+ALAPPUZHA,Rural,UPS (I-VIII) ,Government Aided,5927,0,0
+ALAPPUZHA,Urban ,UPS (I-VIII) ,Government Aided,1746,0,0
+ALAPPUZHA,Rural,UPS (VI-VIII) ,Government Aided,1531,0,0
+ALAPPUZHA,Urban ,UPS (VI-VIII) ,Government Aided,73,0,0
+ALAPPUZHA,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,164,101
+ALAPPUZHA,Rural,HSS (I-XII),Kendriya Vidyalaya / Central School,317,131,67
+ALAPPUZHA,Rural,PS (I-V) ,Local body,164,0,0
+ALAPPUZHA,Rural,UPS (I-VIII) ,Local body,34,0,0
+ALAPPUZHA,Urban ,UPS (I-VIII) ,Local body,44,0,0
+ALAPPUZHA,Urban ,UPS (I-VIII) ,Madarsa recognized (by Wakf board/Madarsa Board) ,113,0,0
+ALAPPUZHA,Rural,HSS (I-XII),Private Unaided (Recognized),17863,5178,2362
+ALAPPUZHA,Urban ,HSS (I-XII),Private Unaided (Recognized),7340,2229,1264
+ALAPPUZHA,Rural,HSS (IX-XII),Private Unaided (Recognized),0,93,369
+ALAPPUZHA,Rural, HSS (VI-XII),Private Unaided (Recognized),73,219,66
+ALAPPUZHA,Urban , HSS (VI-XII),Private Unaided (Recognized),130,177,68
+ALAPPUZHA,Rural,HSS (XI-XII),Private Unaided (Recognized),0,0,316
+ALAPPUZHA,Urban ,HSS (XI-XII),Private Unaided (Recognized),0,0,214
+ALAPPUZHA,Rural,PS (I-V) ,Private Unaided (Recognized),2411,0,0
+ALAPPUZHA,Urban ,PS (I-V) ,Private Unaided (Recognized),1285,0,0
+ALAPPUZHA,Rural, SS (I-X) ,Private Unaided (Recognized),11376,2323,0
+ALAPPUZHA,Urban , SS (I-X) ,Private Unaided (Recognized),1782,415,0
+ALAPPUZHA,Rural,SS (VI-X),Private Unaided (Recognized),18,40,0
+ALAPPUZHA,Rural,UPS (I-VIII) ,Private Unaided (Recognized),3531,0,0
+ALAPPUZHA,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),1197,0,0
+ALAPPUZHA,Rural, HSS (VI-XII),Tribal Welfare Department,23,68,76
+ALAPPUZHA,Rural,HSS (XI-XII),Unrecognized,0,0,34
+ALAPPUZHA,Rural,PS (I-V) ,Unrecognized,899,0,0
+ALAPPUZHA,Rural, SS (I-X) ,Unrecognized,165,0,0
+ALAPPUZHA,Rural,UPS (I-VIII) ,Unrecognized,1763,0,0
+ALAPPUZHA,Urban ,UPS (I-VIII) ,Unrecognized,836,0,0
+ERNAKULAM,Rural,HSS (I-XII),Department of Education,4066,2939,7524
+ERNAKULAM,Urban ,HSS (I-XII),Department of Education,977,502,1992
+ERNAKULAM,Urban ,HSS (IX-XII),Department of Education,0,641,2946
+ERNAKULAM,Rural, HSS (VI-XII),Department of Education,503,1448,3953
+ERNAKULAM,Urban , HSS (VI-XII),Department of Education,397,1558,4657
+ERNAKULAM,Urban ,HSS (XI-XII),Department of Education,0,0,687
+ERNAKULAM,Rural,PS (I-V) ,Department of Education,9271,0,0
+ERNAKULAM,Urban ,PS (I-V) ,Department of Education,2739,0,0
+ERNAKULAM,Rural, SS (I-X) ,Department of Education,1485,706,0
+ERNAKULAM,Urban , SS (I-X) ,Department of Education,529,305,0
+ERNAKULAM,Rural,SS (IX-X),Department of Education,0,297,0
+ERNAKULAM,Rural,SS (VI-X),Department of Education,28,77,0
+ERNAKULAM,Urban ,SS (VI-X),Department of Education,15,55,0
+ERNAKULAM,Rural,UPS (I-VIII) ,Department of Education,8001,0,0
+ERNAKULAM,Urban ,UPS (I-VIII) ,Department of Education,2064,0,0
+ERNAKULAM,Rural,UPS (VI-VIII) ,Department of Education,75,0,0
+ERNAKULAM,Urban ,UPS (VI-VIII) ,Department of Education,97,0,0
+ERNAKULAM,Rural,HSS (I-XII),Government Aided,3759,3178,3415
+ERNAKULAM,Urban ,HSS (I-XII),Government Aided,2074,1653,1864
+ERNAKULAM,Rural,HSS (IX-XII),Government Aided,0,2046,2354
+ERNAKULAM,Urban ,HSS (IX-XII),Government Aided,0,681,1164
+ERNAKULAM,Rural, HSS (VI-XII),Government Aided,3972,14930,19807
+ERNAKULAM,Urban , HSS (VI-XII),Government Aided,2688,9507,9398
+ERNAKULAM,Rural,PS (I-V) ,Government Aided,16965,0,0
+ERNAKULAM,Urban ,PS (I-V) ,Government Aided,12374,0,0
+ERNAKULAM,Rural, SS (I-X) ,Government Aided,2713,2295,0
+ERNAKULAM,Urban , SS (I-X) ,Government Aided,2603,1375,0
+ERNAKULAM,Rural,SS (IX-X),Government Aided,0,683,0
+ERNAKULAM,Urban ,SS (IX-X),Government Aided,0,347,0
+ERNAKULAM,Rural,SS (VI-X),Government Aided,2035,6383,0
+ERNAKULAM,Urban ,SS (VI-X),Government Aided,1588,4548,0
+ERNAKULAM,Rural,UPS (I-VIII) ,Government Aided,10382,0,0
+ERNAKULAM,Urban ,UPS (I-VIII) ,Government Aided,5246,0,0
+ERNAKULAM,Rural,UPS (VI-VIII) ,Government Aided,682,0,0
+ERNAKULAM,Urban ,UPS (VI-VIII) ,Government Aided,65,0,0
+ERNAKULAM,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,156,152
+ERNAKULAM,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,4640,1840,1717
+ERNAKULAM,Rural,HSS (I-XII),Local body,2,4,64
+ERNAKULAM,Rural,PS (I-V) ,Local body,88,0,0
+ERNAKULAM,Rural,UPS (I-VIII) ,Local body,22,0,0
+ERNAKULAM,Rural,PS (I-V) ,Other Govt. managed schools,76,0,0
+ERNAKULAM,Rural,HSS (I-XII),Private Unaided (Recognized),25913,8342,6116
+ERNAKULAM,Urban ,HSS (I-XII),Private Unaided (Recognized),40986,14101,11816
+ERNAKULAM,Rural,HSS (IX-XII),Private Unaided (Recognized),0,427,497
+ERNAKULAM,Urban ,HSS (IX-XII),Private Unaided (Recognized),0,663,908
+ERNAKULAM,Rural, HSS (VI-XII),Private Unaided (Recognized),6,52,160
+ERNAKULAM,Urban , HSS (VI-XII),Private Unaided (Recognized),129,406,332
+ERNAKULAM,Rural,HSS (XI-XII),Private Unaided (Recognized),0,0,291
+ERNAKULAM,Urban ,HSS (XI-XII),Private Unaided (Recognized),0,0,1263
+ERNAKULAM,Rural,PS (I-V) ,Private Unaided (Recognized),3240,0,0
+ERNAKULAM,Urban ,PS (I-V) ,Private Unaided (Recognized),2318,0,0
+ERNAKULAM,Rural, SS (I-X) ,Private Unaided (Recognized),23215,4884,0
+ERNAKULAM,Urban , SS (I-X) ,Private Unaided (Recognized),8371,2645,0
+ERNAKULAM,Urban ,SS (IX-X),Private Unaided (Recognized),0,216,0
+ERNAKULAM,Rural,SS (VI-X),Private Unaided (Recognized),123,116,0
+ERNAKULAM,Rural,UPS (I-VIII) ,Private Unaided (Recognized),4379,0,0
+ERNAKULAM,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),2663,0,0
+ERNAKULAM,Rural,UPS (VI-VIII) ,Private Unaided (Recognized),0,0,0
+ERNAKULAM,Rural, HSS (VI-XII),Tribal Welfare Department,23,61,44
+ERNAKULAM,Rural,HSS (I-XII),Unrecognized,0,0,0
+ERNAKULAM,Urban ,HSS (I-XII),Unrecognized,150,84,50
+ERNAKULAM,Rural,PS (I-V) ,Unrecognized,829,0,0
+ERNAKULAM,Urban ,PS (I-V) ,Unrecognized,593,0,0
+ERNAKULAM,Rural, SS (I-X) ,Unrecognized,0,0,0
+ERNAKULAM,Urban , SS (I-X) ,Unrecognized,131,37,0
+ERNAKULAM,Rural,UPS (I-VIII) ,Unrecognized,2535,0,0
+ERNAKULAM,Urban ,UPS (I-VIII) ,Unrecognized,343,0,0
+ERNAKULAM,Urban ,UPS (VI-VIII) ,Unrecognized,18,0,0
+IDUKKI,Rural,HSS (I-XII),Department of Education,2856,1939,4007
+IDUKKI,Urban ,HSS (I-XII),Department of Education,113,110,656
+IDUKKI,Rural,HSS (IX-XII),Department of Education,0,1248,1976
+IDUKKI,Urban ,HSS (IX-XII),Department of Education,0,17,274
+IDUKKI,Rural, HSS (VI-XII),Department of Education,486,1305,1741
+IDUKKI,Rural,PS (I-V) ,Department of Education,5390,0,0
+IDUKKI,Urban ,PS (I-V) ,Department of Education,74,0,0
+IDUKKI,Rural, SS (I-X) ,Department of Education,3350,1526,0
+IDUKKI,Urban , SS (I-X) ,Department of Education,31,26,0
+IDUKKI,Rural,SS (IX-X),Department of Education,0,310,0
+IDUKKI,Rural,SS (VI-X),Department of Education,247,424,0
+IDUKKI,Rural,UPS (I-VIII) ,Department of Education,2544,0,0
+IDUKKI,Urban ,UPS (I-VIII) ,Department of Education,242,0,0
+IDUKKI,Rural,UPS (VI-VIII) ,Department of Education,249,0,0
+IDUKKI,Rural,HSS (I-XII),Government Aided,2758,1922,1907
+IDUKKI,Rural,HSS (IX-XII),Government Aided,0,2380,3631
+IDUKKI,Urban ,HSS (IX-XII),Government Aided,0,610,1246
+IDUKKI,Rural, HSS (VI-XII),Government Aided,1162,3714,5852
+IDUKKI,Urban , HSS (VI-XII),Government Aided,172,468,457
+IDUKKI,Rural,PS (I-V) ,Government Aided,11542,0,0
+IDUKKI,Urban ,PS (I-V) ,Government Aided,856,0,0
+IDUKKI,Rural, SS (I-X) ,Government Aided,2407,1333,0
+IDUKKI,Rural,SS (IX-X),Government Aided,0,1943,0
+IDUKKI,Urban ,SS (IX-X),Government Aided,0,189,0
+IDUKKI,Rural,SS (VI-X),Government Aided,728,1844,0
+IDUKKI,Urban ,SS (VI-X),Government Aided,55,364,0
+IDUKKI,Rural,UPS (I-VIII) ,Government Aided,4496,0,0
+IDUKKI,Urban ,UPS (I-VIII) ,Government Aided,1145,0,0
+IDUKKI,Rural,UPS (VI-VIII) ,Government Aided,1732,0,0
+IDUKKI,Urban ,UPS (VI-VIII) ,Government Aided,103,0,0
+IDUKKI,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,157,141
+IDUKKI,Rural,HSS (I-XII),Kendriya Vidyalaya / Central School,340,104,67
+IDUKKI,Rural,PS (I-V) ,Other Govt. managed schools,617,0,0
+IDUKKI,Rural,HSS (I-XII),Private Unaided (Recognized),8623,2716,1537
+IDUKKI,Urban ,HSS (I-XII),Private Unaided (Recognized),3896,1120,788
+IDUKKI,Rural,HSS (IX-XII),Private Unaided (Recognized),0,273,166
+IDUKKI,Urban , HSS (VI-XII),Private Unaided (Recognized),133,354,177
+IDUKKI,Rural,HSS (XI-XII),Private Unaided (Recognized),0,0,128
+IDUKKI,Rural,PS (I-V) ,Private Unaided (Recognized),1993,0,0
+IDUKKI,Urban ,PS (I-V) ,Private Unaided (Recognized),507,0,0
+IDUKKI,Rural, SS (I-X) ,Private Unaided (Recognized),6320,1510,0
+IDUKKI,Urban , SS (I-X) ,Private Unaided (Recognized),784,204,0
+IDUKKI,Rural,UPS (I-VIII) ,Private Unaided (Recognized),1224,0,0
+IDUKKI,Rural,UPS (VI-VIII) ,Private Unaided (Recognized),98,0,0
+IDUKKI,Rural, HSS (VI-XII),Tribal Welfare Department,72,236,207
+IDUKKI,Rural,PS (I-V) ,Tribal Welfare Department,175,0,0
+IDUKKI,Rural,HSS (I-XII),Unrecognized,0,0,0
+IDUKKI,Rural,PS (I-V) ,Unrecognized,597,0,0
+IDUKKI,Urban ,PS (I-V) ,Unrecognized,100,0,0
+IDUKKI,Rural, SS (I-X) ,Unrecognized,8,10,0
+IDUKKI,Rural,UPS (I-VIII) ,Unrecognized,905,0,0
+KANNUR,Rural,HSS (I-XII),Department of Education,5307,4803,9020
+KANNUR,Urban ,HSS (I-XII),Department of Education,1572,2254,3655
+KANNUR,Rural,HSS (IX-XII),Department of Education,0,6821,9225
+KANNUR,Urban ,HSS (IX-XII),Department of Education,0,1483,3951
+KANNUR,Rural, HSS (VI-XII),Department of Education,994,7199,7698
+KANNUR,Urban , HSS (VI-XII),Department of Education,522,1775,4031
+KANNUR,Rural,HSS (XI-XII),Department of Education,0,0,112
+KANNUR,Urban ,HSS (XI-XII),Department of Education,0,0,177
+KANNUR,Rural,PS (I-V) ,Department of Education,5429,0,0
+KANNUR,Urban ,PS (I-V) ,Department of Education,1733,0,0
+KANNUR,Rural, SS (I-X) ,Department of Education,1781,995,0
+KANNUR,Rural,SS (IX-X),Department of Education,0,174,0
+KANNUR,Urban ,SS (IX-X),Department of Education,0,211,0
+KANNUR,Rural,UPS (I-VIII) ,Department of Education,7286,0,0
+KANNUR,Urban ,UPS (I-VIII) ,Department of Education,4233,0,0
+KANNUR,Rural,UPS (VI-VIII) ,Department of Education,15,0,0
+KANNUR,Rural,HSS (I-XII),Government Aided,2258,2765,1028
+KANNUR,Urban ,HSS (I-XII),Government Aided,2171,1455,1210
+KANNUR,Rural,HSS (IX-XII),Government Aided,0,11282,9002
+KANNUR,Urban ,HSS (IX-XII),Government Aided,0,7125,3955
+KANNUR,Rural, HSS (VI-XII),Government Aided,1495,8499,7303
+KANNUR,Urban , HSS (VI-XII),Government Aided,1172,7278,4151
+KANNUR,Rural,PS (I-V) ,Government Aided,21063,0,0
+KANNUR,Urban ,PS (I-V) ,Government Aided,9008,0,0
+KANNUR,Rural, SS (I-X) ,Government Aided,194,235,0
+KANNUR,Urban , SS (I-X) ,Government Aided,632,310,0
+KANNUR,Rural,SS (IX-X),Government Aided,0,1725,0
+KANNUR,Urban ,SS (IX-X),Government Aided,0,244,0
+KANNUR,Rural,SS (VI-X),Government Aided,96,422,0
+KANNUR,Urban ,SS (VI-X),Government Aided,211,574,0
+KANNUR,Rural,UPS (I-VIII) ,Government Aided,56988,0,0
+KANNUR,Urban ,UPS (I-VIII) ,Government Aided,19852,0,0
+KANNUR,Rural,UPS (VI-VIII) ,Government Aided,993,0,0
+KANNUR,Urban ,UPS (VI-VIII) ,Government Aided,49,0,0
+KANNUR,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,158,144
+KANNUR,Rural,HSS (I-XII),Kendriya Vidyalaya / Central School,1359,552,342
+KANNUR,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,1383,550,471
+KANNUR,Rural, SS (I-X) ,Kendriya Vidyalaya / Central School,272,85,0
+KANNUR,Rural,HSS (I-XII),Local body,1,3,52
+KANNUR,Urban ,HSS (I-XII),Local body,1,0,41
+KANNUR,Rural, SS (I-X) ,Local body,2,0,0
+KANNUR,Urban , SS (I-X) ,Local body,5,0,0
+KANNUR,Rural,UPS (I-VIII) ,Local body,3,0,0
+KANNUR,Rural,PS (I-V) ,Other Govt. managed schools,79,0,0
+KANNUR,Urban ,PS (I-V) ,Other Govt. managed schools,7,0,0
+KANNUR,Rural,HSS (I-XII),Private Unaided (Recognized),10209,2728,1761
+KANNUR,Urban ,HSS (I-XII),Private Unaided (Recognized),11464,3487,2743
+KANNUR,Rural,HSS (IX-XII),Private Unaided (Recognized),0,107,209
+KANNUR,Urban ,HSS (IX-XII),Private Unaided (Recognized),0,21,10
+KANNUR,Rural, HSS (VI-XII),Private Unaided (Recognized),49,56,173
+KANNUR,Rural,HSS (XI-XII),Private Unaided (Recognized),0,0,604
+KANNUR,Rural,PS (I-V) ,Private Unaided (Recognized),1095,0,0
+KANNUR,Urban ,PS (I-V) ,Private Unaided (Recognized),949,0,0
+KANNUR,Rural, SS (I-X) ,Private Unaided (Recognized),13350,2511,0
+KANNUR,Urban , SS (I-X) ,Private Unaided (Recognized),6202,780,0
+KANNUR,Rural,UPS (I-VIII) ,Private Unaided (Recognized),4249,0,0
+KANNUR,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),2297,0,0
+KANNUR,Rural,UPS (VI-VIII) ,Private Unaided (Recognized),19,0,0
+KANNUR,Urban ,UPS (VI-VIII) ,Private Unaided (Recognized),179,0,0
+KANNUR,Rural, HSS (VI-XII),Tribal Welfare Department,6,63,139
+KANNUR,Rural,HSS (I-XII),Unrecognized,8,27,0
+KANNUR,Urban ,HSS (I-XII),Unrecognized,4,5,28
+KANNUR,Rural,PS (I-V) ,Unrecognized,718,0,0
+KANNUR,Urban ,PS (I-V) ,Unrecognized,277,0,0
+KANNUR,Rural, SS (I-X) ,Unrecognized,349,41,0
+KANNUR,Urban , SS (I-X) ,Unrecognized,286,0,0
+KANNUR,Rural,UPS (I-VIII) ,Unrecognized,2735,0,0
+KANNUR,Urban ,UPS (I-VIII) ,Unrecognized,1360,0,0
+KANNUR,Rural,UPS (VI-VIII) ,Unrecognized,9,0,0
+KANNUR,Urban ,UPS (VI-VIII) ,Unrecognized,15,0,0
+KASARAGOD,Rural,HSS (I-XII),Department of Education,15672,10823,12929
+KASARAGOD,Urban ,HSS (I-XII),Department of Education,632,820,1124
+KASARAGOD,Rural,HSS (IX-XII),Department of Education,0,2947,2525
+KASARAGOD,Urban ,HSS (IX-XII),Department of Education,0,245,369
+KASARAGOD,Rural, HSS (VI-XII),Department of Education,832,3249,4433
+KASARAGOD,Urban , HSS (VI-XII),Department of Education,217,813,1120
+KASARAGOD,Rural,PS (I-V) ,Department of Education,10302,0,0
+KASARAGOD,Urban ,PS (I-V) ,Department of Education,1484,0,0
+KASARAGOD,Rural, SS (I-X) ,Department of Education,4366,2247,0
+KASARAGOD,Urban , SS (I-X) ,Department of Education,423,164,0
+KASARAGOD,Rural,SS (IX-X),Department of Education,0,351,0
+KASARAGOD,Urban ,SS (IX-X),Department of Education,0,80,0
+KASARAGOD,Rural,SS (VI-X),Department of Education,67,110,0
+KASARAGOD,Rural,UPS (I-VIII) ,Department of Education,10856,0,0
+KASARAGOD,Urban ,UPS (I-VIII) ,Department of Education,2212,0,0
+KASARAGOD,Rural,UPS (VI-VIII) ,Department of Education,35,0,0
+KASARAGOD,Rural,HSS (I-XII),Government Aided,2939,2136,647
+KASARAGOD,Rural,HSS (IX-XII),Government Aided,0,4917,4163
+KASARAGOD,Rural, HSS (VI-XII),Government Aided,814,3602,3232
+KASARAGOD,Urban , HSS (VI-XII),Government Aided,466,1994,1133
+KASARAGOD,Rural,PS (I-V) ,Government Aided,11291,0,0
+KASARAGOD,Urban ,PS (I-V) ,Government Aided,1786,0,0
+KASARAGOD,Rural, SS (I-X) ,Government Aided,310,177,0
+KASARAGOD,Rural,SS (IX-X),Government Aided,0,604,0
+KASARAGOD,Rural,SS (VI-X),Government Aided,67,203,0
+KASARAGOD,Rural,UPS (I-VIII) ,Government Aided,18644,0,0
+KASARAGOD,Urban ,UPS (I-VIII) ,Government Aided,3084,0,0
+KASARAGOD,Rural,UPS (VI-VIII) ,Government Aided,566,0,0
+KASARAGOD,Urban ,UPS (VI-VIII) ,Government Aided,108,0,0
+KASARAGOD,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,161,149
+KASARAGOD,Rural,HSS (I-XII),Kendriya Vidyalaya / Central School,627,223,200
+KASARAGOD,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,263,93,71
+KASARAGOD,Rural,UPS (I-VIII) ,Kendriya Vidyalaya / Central School,213,0,0
+KASARAGOD,Rural,HSS (I-XII),Private Unaided (Recognized),8921,2723,1566
+KASARAGOD,Urban ,HSS (I-XII),Private Unaided (Recognized),1824,500,497
+KASARAGOD,Rural,HSS (IX-XII),Private Unaided (Recognized),0,193,276
+KASARAGOD,Rural,PS (I-V) ,Private Unaided (Recognized),1607,0,0
+KASARAGOD,Urban ,PS (I-V) ,Private Unaided (Recognized),304,0,0
+KASARAGOD,Rural, SS (I-X) ,Private Unaided (Recognized),12527,3061,0
+KASARAGOD,Urban , SS (I-X) ,Private Unaided (Recognized),1470,266,0
+KASARAGOD,Rural,SS (IX-X),Private Unaided (Recognized),0,104,0
+KASARAGOD,Rural,SS (VI-X),Private Unaided (Recognized),15,262,0
+KASARAGOD,Rural,UPS (I-VIII) ,Private Unaided (Recognized),4013,0,0
+KASARAGOD,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),256,0,0
+KASARAGOD,Rural, HSS (VI-XII),Tribal Welfare Department,35,70,199
+KASARAGOD,Rural,SS (VI-X),Tribal Welfare Department,24,56,0
+KASARAGOD,Rural,PS (I-V) ,Unrecognized,463,0,0
+KASARAGOD,Rural, SS (I-X) ,Unrecognized,467,53,0
+KASARAGOD,Rural,UPS (I-VIII) ,Unrecognized,955,0,0
+KOLLAM,Rural,HSS (I-XII),Department of Education,4214,3467,6347
+KOLLAM,Urban ,HSS (I-XII),Department of Education,1386,917,1068
+KOLLAM,Rural,HSS (IX-XII),Department of Education,0,2141,2147
+KOLLAM,Urban ,HSS (IX-XII),Department of Education,0,372,1473
+KOLLAM,Rural, HSS (VI-XII),Department of Education,2338,9016,9351
+KOLLAM,Urban , HSS (VI-XII),Department of Education,650,2901,3653
+KOLLAM,Rural,PS (I-V) ,Department of Education,23620,0,0
+KOLLAM,Urban ,PS (I-V) ,Department of Education,3542,0,0
+KOLLAM,Rural, SS (I-X) ,Department of Education,2329,1990,0
+KOLLAM,Rural,SS (IX-X),Department of Education,0,148,0
+KOLLAM,Urban ,SS (IX-X),Department of Education,0,157,0
+KOLLAM,Rural,SS (VI-X),Department of Education,309,853,0
+KOLLAM,Rural,UPS (I-VIII) ,Department of Education,11199,0,0
+KOLLAM,Urban ,UPS (I-VIII) ,Department of Education,4376,0,0
+KOLLAM,Rural,UPS (VI-VIII) ,Department of Education,301,0,0
+KOLLAM,Urban ,UPS (VI-VIII) ,Department of Education,26,0,0
+KOLLAM,Rural,HSS (I-XII),Government Aided,1292,1206,1366
+KOLLAM,Urban ,HSS (I-XII),Government Aided,626,366,845
+KOLLAM,Rural,HSS (IX-XII),Government Aided,0,8366,10848
+KOLLAM,Urban ,HSS (IX-XII),Government Aided,0,280,1532
+KOLLAM,Rural, HSS (VI-XII),Government Aided,3168,10221,12766
+KOLLAM,Urban , HSS (VI-XII),Government Aided,1779,6926,4716
+KOLLAM,Rural,PS (I-V) ,Government Aided,13959,0,0
+KOLLAM,Urban ,PS (I-V) ,Government Aided,4144,0,0
+KOLLAM,Rural, SS (I-X) ,Government Aided,154,165,0
+KOLLAM,Rural,SS (IX-X),Government Aided,0,2100,0
+KOLLAM,Urban ,SS (IX-X),Government Aided,0,54,0
+KOLLAM,Rural,SS (VI-X),Government Aided,1303,4819,0
+KOLLAM,Urban ,SS (VI-X),Government Aided,743,3220,0
+KOLLAM,Rural,UPS (I-VIII) ,Government Aided,10530,0,0
+KOLLAM,Urban ,UPS (I-VIII) ,Government Aided,1474,0,0
+KOLLAM,Rural,UPS (VI-VIII) ,Government Aided,3977,0,0
+KOLLAM,Urban ,UPS (VI-VIII) ,Government Aided,77,0,0
+KOLLAM,Urban , HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,149,153
+KOLLAM,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,508,149,144
+KOLLAM,Rural,HSS (I-XII),Local body,10,0,0
+KOLLAM,Rural,HSS (I-XII),Private Unaided (Recognized),21920,5661,4314
+KOLLAM,Urban ,HSS (I-XII),Private Unaided (Recognized),13509,4133,2571
+KOLLAM,Rural, HSS (VI-XII),Private Unaided (Recognized),187,402,100
+KOLLAM,Rural,PS (I-V) ,Private Unaided (Recognized),3227,0,0
+KOLLAM,Urban ,PS (I-V) ,Private Unaided (Recognized),1805,0,0
+KOLLAM,Rural, SS (I-X) ,Private Unaided (Recognized),14646,3272,0
+KOLLAM,Urban , SS (I-X) ,Private Unaided (Recognized),1356,311,0
+KOLLAM,Rural,SS (VI-X),Private Unaided (Recognized),11,41,0
+KOLLAM,Rural,UPS (I-VIII) ,Private Unaided (Recognized),3332,0,0
+KOLLAM,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),1247,0,0
+KOLLAM,Rural,SS (VI-X),Tribal Welfare Department,15,49,0
+KOLLAM,Rural,HSS (I-XII),Unrecognized,87,23,20
+KOLLAM,Rural,PS (I-V) ,Unrecognized,2342,0,0
+KOLLAM,Urban ,PS (I-V) ,Unrecognized,754,0,0
+KOLLAM,Rural, SS (I-X) ,Unrecognized,128,34,0
+KOLLAM,Rural,UPS (I-VIII) ,Unrecognized,4516,0,0
+KOLLAM,Urban ,UPS (I-VIII) ,Unrecognized,701,0,0
+KOTTAYAM,Rural,HSS (I-XII),Department of Education,1333,1018,3727
+KOTTAYAM,Urban ,HSS (I-XII),Department of Education,126,54,719
+KOTTAYAM,Rural,HSS (IX-XII),Department of Education,0,242,872
+KOTTAYAM,Rural, HSS (VI-XII),Department of Education,363,1226,3934
+KOTTAYAM,Urban , HSS (VI-XII),Department of Education,114,429,1794
+KOTTAYAM,Rural,HSS (XI-XII),Department of Education,0,0,117
+KOTTAYAM,Rural,PS (I-V) ,Department of Education,6775,0,0
+KOTTAYAM,Urban ,PS (I-V) ,Department of Education,1389,0,0
+KOTTAYAM,Rural, SS (I-X) ,Department of Education,489,315,0
+KOTTAYAM,Rural,SS (IX-X),Department of Education,0,382,0
+KOTTAYAM,Rural,SS (VI-X),Department of Education,25,77,0
+KOTTAYAM,Urban ,SS (VI-X),Department of Education,2,31,0
+KOTTAYAM,Rural,UPS (I-VIII) ,Department of Education,4475,0,0
+KOTTAYAM,Urban ,UPS (I-VIII) ,Department of Education,628,0,0
+KOTTAYAM,Rural,UPS (VI-VIII) ,Department of Education,32,0,0
+KOTTAYAM,Rural,HSS (I-XII),Government Aided,2186,2164,2501
+KOTTAYAM,Urban ,HSS (I-XII),Government Aided,644,564,102
+KOTTAYAM,Rural,HSS (IX-XII),Government Aided,0,1227,2896
+KOTTAYAM,Urban ,HSS (IX-XII),Government Aided,0,104,720
+KOTTAYAM,Rural, HSS (VI-XII),Government Aided,2581,10353,15381
+KOTTAYAM,Urban , HSS (VI-XII),Government Aided,1852,6669,7837
+KOTTAYAM,Rural,PS (I-V) ,Government Aided,16407,0,0
+KOTTAYAM,Urban ,PS (I-V) ,Government Aided,4420,0,0
+KOTTAYAM,Rural, SS (I-X) ,Government Aided,2709,1982,0
+KOTTAYAM,Urban , SS (I-X) ,Government Aided,508,255,0
+KOTTAYAM,Rural,SS (IX-X),Government Aided,0,1688,0
+KOTTAYAM,Rural,SS (VI-X),Government Aided,2179,6971,0
+KOTTAYAM,Urban ,SS (VI-X),Government Aided,261,746,0
+KOTTAYAM,Rural,UPS (I-VIII) ,Government Aided,9474,0,0
+KOTTAYAM,Urban ,UPS (I-VIII) ,Government Aided,1303,0,0
+KOTTAYAM,Rural,UPS (VI-VIII) ,Government Aided,910,0,0
+KOTTAYAM,Urban ,UPS (VI-VIII) ,Government Aided,30,0,0
+KOTTAYAM,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,158,247
+KOTTAYAM,Rural,HSS (I-XII),Kendriya Vidyalaya / Central School,565,212,182
+KOTTAYAM,Rural, SS (I-X) ,Kendriya Vidyalaya / Central School,270,91,0
+KOTTAYAM,Rural,UPS (I-VIII) ,Local body,12,0,0
+KOTTAYAM,Urban ,UPS (I-VIII) ,Madarsa recognized (by Wakf board/Madarsa Board) ,117,0,0
+KOTTAYAM,Rural,HSS (I-XII),Private Unaided (Recognized),22501,7996,8838
+KOTTAYAM,Urban ,HSS (I-XII),Private Unaided (Recognized),7803,2551,3015
+KOTTAYAM,Rural, HSS (VI-XII),Private Unaided (Recognized),76,302,789
+KOTTAYAM,Urban , HSS (VI-XII),Private Unaided (Recognized),26,175,390
+KOTTAYAM,Rural,HSS (XI-XII),Private Unaided (Recognized),0,0,100
+KOTTAYAM,Urban ,HSS (XI-XII),Private Unaided (Recognized),0,0,190
+KOTTAYAM,Rural,PS (I-V) ,Private Unaided (Recognized),2541,0,0
+KOTTAYAM,Urban ,PS (I-V) ,Private Unaided (Recognized),1112,0,0
+KOTTAYAM,Rural, SS (I-X) ,Private Unaided (Recognized),12126,2668,0
+KOTTAYAM,Urban , SS (I-X) ,Private Unaided (Recognized),1539,373,0
+KOTTAYAM,Urban ,SS (IX-X),Private Unaided (Recognized),0,63,0
+KOTTAYAM,Urban ,SS (VI-X),Private Unaided (Recognized),0,0,0
+KOTTAYAM,Rural,UPS (I-VIII) ,Private Unaided (Recognized),1812,0,0
+KOTTAYAM,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),345,0,0
+KOTTAYAM,Rural,UPS (VI-VIII) ,Private Unaided (Recognized),35,0,0
+KOTTAYAM,Urban , HSS (VI-XII),Tribal Welfare Department,24,66,91
+KOTTAYAM,Rural,PS (I-V) ,Unrecognized,733,0,0
+KOTTAYAM,Urban ,PS (I-V) ,Unrecognized,175,0,0
+KOTTAYAM,Rural, SS (I-X) ,Unrecognized,177,0,0
+KOTTAYAM,Rural,UPS (I-VIII) ,Unrecognized,699,0,0
+KOTTAYAM,Urban ,UPS (I-VIII) ,Unrecognized,23,0,0
+KOZHIKODE,Rural,HSS (I-XII),Department of Education,2873,4749,6116
+KOZHIKODE,Urban ,HSS (I-XII),Department of Education,2914,3067,4520
+KOZHIKODE,Rural,HSS (IX-XII),Department of Education,0,7956,8057
+KOZHIKODE,Urban ,HSS (IX-XII),Department of Education,0,1505,2718
+KOZHIKODE,Rural, HSS (VI-XII),Department of Education,749,6227,5889
+KOZHIKODE,Urban , HSS (VI-XII),Department of Education,1521,7513,8114
+KOZHIKODE,Urban ,HSS (XI-XII),Department of Education,0,0,186
+KOZHIKODE,Rural,PS (I-V) ,Department of Education,11416,0,0
+KOZHIKODE,Urban ,PS (I-V) ,Department of Education,4862,0,0
+KOZHIKODE,Rural, SS (I-X) ,Department of Education,1127,663,0
+KOZHIKODE,Urban , SS (I-X) ,Department of Education,639,426,0
+KOZHIKODE,Urban ,SS (IX-X),Department of Education,0,364,0
+KOZHIKODE,Rural,SS (VI-X),Department of Education,155,116,0
+KOZHIKODE,Urban ,SS (VI-X),Department of Education,127,470,0
+KOZHIKODE,Rural,UPS (I-VIII) ,Department of Education,12861,0,0
+KOZHIKODE,Urban ,UPS (I-VIII) ,Department of Education,9096,0,0
+KOZHIKODE,Rural,UPS (VI-VIII) ,Department of Education,491,0,0
+KOZHIKODE,Urban ,UPS (VI-VIII) ,Department of Education,8,0,0
+KOZHIKODE,Rural,HSS (I-XII),Government Aided,3406,3950,2550
+KOZHIKODE,Urban ,HSS (I-XII),Government Aided,2122,1732,2957
+KOZHIKODE,Rural,HSS (IX-XII),Government Aided,0,18117,13649
+KOZHIKODE,Urban ,HSS (IX-XII),Government Aided,0,2187,1728
+KOZHIKODE,Rural, HSS (VI-XII),Government Aided,2339,13520,10537
+KOZHIKODE,Urban , HSS (VI-XII),Government Aided,3012,9006,8598
+KOZHIKODE,Rural,PS (I-V) ,Government Aided,36992,0,0
+KOZHIKODE,Urban ,PS (I-V) ,Government Aided,14813,0,0
+KOZHIKODE,Rural, SS (I-X) ,Government Aided,350,181,0
+KOZHIKODE,Rural,SS (IX-X),Government Aided,0,845,0
+KOZHIKODE,Rural,SS (VI-X),Government Aided,183,1167,0
+KOZHIKODE,Urban ,SS (VI-X),Government Aided,316,949,0
+KOZHIKODE,Rural,UPS (I-VIII) ,Government Aided,51948,0,0
+KOZHIKODE,Urban ,UPS (I-VIII) ,Government Aided,11314,0,0
+KOZHIKODE,Rural,UPS (VI-VIII) ,Government Aided,1795,0,0
+KOZHIKODE,Urban ,UPS (VI-VIII) ,Government Aided,634,0,0
+KOZHIKODE,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,162,157
+KOZHIKODE,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,1740,660,568
+KOZHIKODE,Rural,PS (I-V) ,Other Govt. managed schools,27,0,0
+KOZHIKODE,Urban ,PS (I-V) ,Other Govt. managed schools,12,0,0
+KOZHIKODE,Rural,HSS (I-XII),Private Unaided (Recognized),8124,2062,1463
+KOZHIKODE,Urban ,HSS (I-XII),Private Unaided (Recognized),9347,3326,3000
+KOZHIKODE,Rural, HSS (VI-XII),Private Unaided (Recognized),76,70,198
+KOZHIKODE,Urban , HSS (VI-XII),Private Unaided (Recognized),57,196,219
+KOZHIKODE,Rural,HSS (XI-XII),Private Unaided (Recognized),0,0,936
+KOZHIKODE,Urban ,HSS (XI-XII),Private Unaided (Recognized),0,0,761
+KOZHIKODE,Rural,PS (I-V) ,Private Unaided (Recognized),2095,0,0
+KOZHIKODE,Urban ,PS (I-V) ,Private Unaided (Recognized),2688,0,0
+KOZHIKODE,Rural, SS (I-X) ,Private Unaided (Recognized),16068,2633,0
+KOZHIKODE,Urban , SS (I-X) ,Private Unaided (Recognized),8060,1768,0
+KOZHIKODE,Rural,SS (IX-X),Private Unaided (Recognized),0,101,0
+KOZHIKODE,Urban ,SS (VI-X),Private Unaided (Recognized),12,28,0
+KOZHIKODE,Rural,UPS (I-VIII) ,Private Unaided (Recognized),3985,0,0
+KOZHIKODE,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),2222,0,0
+KOZHIKODE,Rural,UPS (VI-VIII) ,Private Unaided (Recognized),20,0,0
+KOZHIKODE,Urban ,UPS (VI-VIII) ,Private Unaided (Recognized),34,0,0
+KOZHIKODE,Rural,PS (I-V) ,Tribal Welfare Department,45,0,0
+KOZHIKODE,Urban ,UPS (I-VIII) ,Tribal Welfare Department,0,0,0
+KOZHIKODE,Urban , HSS (VI-XII),Unrecognized,17,38,22
+KOZHIKODE,Rural,PS (I-V) ,Unrecognized,1452,0,0
+KOZHIKODE,Urban ,PS (I-V) ,Unrecognized,1314,0,0
+KOZHIKODE,Rural, SS (I-X) ,Unrecognized,1172,81,0
+KOZHIKODE,Urban , SS (I-X) ,Unrecognized,485,10,0
+KOZHIKODE,Rural,SS (VI-X),Unrecognized,4,11,0
+KOZHIKODE,Rural,UPS (I-VIII) ,Unrecognized,2548,0,0
+KOZHIKODE,Urban ,UPS (I-VIII) ,Unrecognized,853,0,0
+MALAPPURAM,Rural,HSS (I-XII),Department of Education,6349,7128,10289
+MALAPPURAM,Urban ,HSS (I-XII),Department of Education,1449,1772,2410
+MALAPPURAM,Rural,HSS (IX-XII),Department of Education,0,16316,20264
+MALAPPURAM,Urban ,HSS (IX-XII),Department of Education,0,1050,2332
+MALAPPURAM,Rural, HSS (VI-XII),Department of Education,4032,19018,20311
+MALAPPURAM,Urban , HSS (VI-XII),Department of Education,867,6166,6411
+MALAPPURAM,Rural,PS (I-V) ,Department of Education,54020,0,0
+MALAPPURAM,Urban ,PS (I-V) ,Department of Education,8747,0,0
+MALAPPURAM,Rural, SS (I-X) ,Department of Education,9688,4947,0
+MALAPPURAM,Rural,SS (IX-X),Department of Education,0,172,0
+MALAPPURAM,Rural,SS (VI-X),Department of Education,66,99,0
+MALAPPURAM,Rural,UPS (I-VIII) ,Department of Education,40086,0,0
+MALAPPURAM,Urban ,UPS (I-VIII) ,Department of Education,6927,0,0
+MALAPPURAM,Rural,UPS (VI-VIII) ,Department of Education,1931,0,0
+MALAPPURAM,Urban ,UPS (VI-VIII) ,Department of Education,189,0,0
+MALAPPURAM,Rural,HSS (I-XII),Government Aided,3394,3717,1478
+MALAPPURAM,Urban ,HSS (I-XII),Government Aided,1710,1755,1413
+MALAPPURAM,Rural,HSS (IX-XII),Government Aided,0,46180,22843
+MALAPPURAM,Urban ,HSS (IX-XII),Government Aided,0,4277,3870
+MALAPPURAM,Rural, HSS (VI-XII),Government Aided,5628,21028,12997
+MALAPPURAM,Urban , HSS (VI-XII),Government Aided,2442,8712,4135
+MALAPPURAM,Rural,HSS (XI-XII),Government Aided,0,0,706
+MALAPPURAM,Urban ,HSS (XI-XII),Government Aided,0,0,247
+MALAPPURAM,Rural,PS (I-V) ,Government Aided,87496,0,0
+MALAPPURAM,Urban ,PS (I-V) ,Government Aided,12742,0,0
+MALAPPURAM,Rural, SS (I-X) ,Government Aided,25,19,0
+MALAPPURAM,Urban , SS (I-X) ,Government Aided,44,16,0
+MALAPPURAM,Rural,SS (IX-X),Government Aided,0,107,0
+MALAPPURAM,Rural,SS (VI-X),Government Aided,301,964,0
+MALAPPURAM,Rural,UPS (I-VIII) ,Government Aided,73733,0,0
+MALAPPURAM,Urban ,UPS (I-VIII) ,Government Aided,12562,0,0
+MALAPPURAM,Rural,UPS (VI-VIII) ,Government Aided,11565,0,0
+MALAPPURAM,Urban ,UPS (VI-VIII) ,Government Aided,1082,0,0
+MALAPPURAM,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,160,133
+MALAPPURAM,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,461,184,130
+MALAPPURAM,Rural,HSS (I-XII),Local body,1,2,32
+MALAPPURAM,Rural,PS (I-V) ,Local body,133,0,0
+MALAPPURAM,Rural, SS (I-X) ,Local body,2,18,0
+MALAPPURAM,Rural,UPS (I-VIII) ,Local body,20,0,0
+MALAPPURAM,Rural,PS (I-V) ,Madarsa recognized (by Wakf board/Madarsa Board) ,13,0,0
+MALAPPURAM,Rural,PS (I-V) ,Other Govt. managed schools,1009,0,0
+MALAPPURAM,Urban ,PS (I-V) ,Other Govt. managed schools,108,0,0
+MALAPPURAM,Rural,HSS (I-XII),Private Unaided (Recognized),20788,4677,4857
+MALAPPURAM,Urban ,HSS (I-XII),Private Unaided (Recognized),11176,2731,1970
+MALAPPURAM,Rural,HSS (IX-XII),Private Unaided (Recognized),0,557,1355
+MALAPPURAM,Urban ,HSS (IX-XII),Private Unaided (Recognized),0,162,352
+MALAPPURAM,Rural, HSS (VI-XII),Private Unaided (Recognized),269,1057,1634
+MALAPPURAM,Urban , HSS (VI-XII),Private Unaided (Recognized),424,807,977
+MALAPPURAM,Rural,HSS (XI-XII),Private Unaided (Recognized),0,0,683
+MALAPPURAM,Rural,PS (I-V) ,Private Unaided (Recognized),4746,0,0
+MALAPPURAM,Urban ,PS (I-V) ,Private Unaided (Recognized),2060,0,0
+MALAPPURAM,Rural, SS (I-X) ,Private Unaided (Recognized),38423,6537,0
+MALAPPURAM,Urban , SS (I-X) ,Private Unaided (Recognized),7627,1789,0
+MALAPPURAM,Rural,SS (IX-X),Private Unaided (Recognized),0,952,0
+MALAPPURAM,Rural,SS (VI-X),Private Unaided (Recognized),42,362,0
+MALAPPURAM,Urban ,SS (VI-X),Private Unaided (Recognized),110,88,0
+MALAPPURAM,Rural,UPS (I-VIII) ,Private Unaided (Recognized),9162,0,0
+MALAPPURAM,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),1412,0,0
+MALAPPURAM,Rural,UPS (VI-VIII) ,Private Unaided (Recognized),112,0,0
+MALAPPURAM,Urban ,HSS (I-XII),Tribal Welfare Department,144,94,63
+MALAPPURAM,Rural,HSS (IX-XII),Unrecognized,0,64,79
+MALAPPURAM,Rural,HSS (XI-XII),Unrecognized,0,0,58
+MALAPPURAM,Rural,PS (I-V) ,Unrecognized,1859,0,0
+MALAPPURAM,Urban ,PS (I-V) ,Unrecognized,316,0,0
+MALAPPURAM,Rural, SS (I-X) ,Unrecognized,1776,254,0
+MALAPPURAM,Urban , SS (I-X) ,Unrecognized,39,4,0
+MALAPPURAM,Rural,SS (VI-X),Unrecognized,16,0,0
+MALAPPURAM,Rural,UPS (I-VIII) ,Unrecognized,2483,0,0
+MALAPPURAM,Urban ,UPS (I-VIII) ,Unrecognized,172,0,0
+PALAKKAD,Rural,HSS (I-XII),Department of Education,4600,3741,5476
+PALAKKAD,Urban ,HSS (I-XII),Department of Education,324,480,1242
+PALAKKAD,Rural,HSS (IX-XII),Department of Education,0,4547,5018
+PALAKKAD,Urban ,HSS (IX-XII),Department of Education,0,386,482
+PALAKKAD,Rural, HSS (VI-XII),Department of Education,3375,14767,15441
+PALAKKAD,Urban , HSS (VI-XII),Department of Education,1066,6137,4947
+PALAKKAD,Rural,PS (I-V) ,Department of Education,17651,0,0
+PALAKKAD,Urban ,PS (I-V) ,Department of Education,2687,0,0
+PALAKKAD,Rural, SS (I-X) ,Department of Education,5001,2441,0
+PALAKKAD,Urban , SS (I-X) ,Department of Education,251,130,0
+PALAKKAD,Rural,SS (VI-X),Department of Education,64,158,0
+PALAKKAD,Rural,UPS (I-VIII) ,Department of Education,11152,0,0
+PALAKKAD,Urban ,UPS (I-VIII) ,Department of Education,4130,0,0
+PALAKKAD,Rural,UPS (VI-VIII) ,Department of Education,364,0,0
+PALAKKAD,Rural,HSS (I-XII),Government Aided,2196,2180,929
+PALAKKAD,Urban ,HSS (I-XII),Government Aided,43,16,23
+PALAKKAD,Rural,HSS (IX-XII),Government Aided,0,11113,8870
+PALAKKAD,Urban ,HSS (IX-XII),Government Aided,0,2664,1839
+PALAKKAD,Rural, HSS (VI-XII),Government Aided,4228,19170,15023
+PALAKKAD,Urban , HSS (VI-XII),Government Aided,1086,3317,1976
+PALAKKAD,Rural,PS (I-V) ,Government Aided,37306,0,0
+PALAKKAD,Urban ,PS (I-V) ,Government Aided,3977,0,0
+PALAKKAD,Rural, SS (I-X) ,Government Aided,313,627,0
+PALAKKAD,Rural,SS (IX-X),Government Aided,0,703,0
+PALAKKAD,Rural,SS (VI-X),Government Aided,58,552,0
+PALAKKAD,Urban ,SS (VI-X),Government Aided,278,864,0
+PALAKKAD,Rural,UPS (I-VIII) ,Government Aided,44040,0,0
+PALAKKAD,Urban ,UPS (I-VIII) ,Government Aided,2867,0,0
+PALAKKAD,Rural,UPS (VI-VIII) ,Government Aided,2392,0,0
+PALAKKAD,Urban ,UPS (VI-VIII) ,Government Aided,142,0,0
+PALAKKAD,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,162,148
+PALAKKAD,Rural,HSS (I-XII),Kendriya Vidyalaya / Central School,1874,649,497
+PALAKKAD,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,760,329,289
+PALAKKAD,Rural,PS (I-V) ,Other Govt. managed schools,209,0,0
+PALAKKAD,Rural,HSS (I-XII),Private Unaided (Recognized),17427,4739,2930
+PALAKKAD,Urban ,HSS (I-XII),Private Unaided (Recognized),8067,2633,1897
+PALAKKAD,Rural,HSS (IX-XII),Private Unaided (Recognized),0,221,0
+PALAKKAD,Rural, HSS (VI-XII),Private Unaided (Recognized),264,447,618
+PALAKKAD,Rural,HSS (XI-XII),Private Unaided (Recognized),0,0,90
+PALAKKAD,Rural,PS (I-V) ,Private Unaided (Recognized),2934,0,0
+PALAKKAD,Urban ,PS (I-V) ,Private Unaided (Recognized),547,0,0
+PALAKKAD,Rural, SS (I-X) ,Private Unaided (Recognized),12163,1709,0
+PALAKKAD,Urban , SS (I-X) ,Private Unaided (Recognized),2949,601,0
+PALAKKAD,Rural,SS (IX-X),Private Unaided (Recognized),0,165,0
+PALAKKAD,Rural,SS (VI-X),Private Unaided (Recognized),131,449,0
+PALAKKAD,Rural,UPS (I-VIII) ,Private Unaided (Recognized),7747,0,0
+PALAKKAD,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),1011,0,0
+PALAKKAD,Rural,UPS (VI-VIII) ,Private Unaided (Recognized),0,0,0
+PALAKKAD,Rural,HSS (I-XII),Railway School,76,32,35
+PALAKKAD,Rural,HSS (I-XII),Tribal Welfare Department,126,79,79
+PALAKKAD,Rural, HSS (VI-XII),Tribal Welfare Department,100,206,388
+PALAKKAD,Rural,PS (I-V) ,Tribal Welfare Department,90,0,0
+PALAKKAD,Rural,PS (I-V) ,Unrecognized,1780,0,0
+PALAKKAD,Urban ,PS (I-V) ,Unrecognized,465,0,0
+PALAKKAD,Rural, SS (I-X) ,Unrecognized,822,23,0
+PALAKKAD,Urban , SS (I-X) ,Unrecognized,83,14,0
+PALAKKAD,Rural,UPS (I-VIII) ,Unrecognized,5557,0,0
+PALAKKAD,Urban ,UPS (I-VIII) ,Unrecognized,688,0,0
+PATHANAMTHITTA,Rural,HSS (I-XII),Department of Education,2096,1450,3806
+PATHANAMTHITTA,Urban ,HSS (I-XII),Department of Education,38,30,430
+PATHANAMTHITTA,Rural,HSS (IX-XII),Department of Education,0,410,770
+PATHANAMTHITTA,Rural, HSS (VI-XII),Department of Education,338,908,2474
+PATHANAMTHITTA,Urban , HSS (VI-XII),Department of Education,36,101,307
+PATHANAMTHITTA,Rural,HSS (XI-XII),Department of Education,0,0,173
+PATHANAMTHITTA,Rural,PS (I-V) ,Department of Education,7503,0,0
+PATHANAMTHITTA,Urban ,PS (I-V) ,Department of Education,1096,0,0
+PATHANAMTHITTA,Rural, SS (I-X) ,Department of Education,406,250,0
+PATHANAMTHITTA,Urban , SS (I-X) ,Department of Education,19,10,0
+PATHANAMTHITTA,Rural,SS (IX-X),Department of Education,0,73,0
+PATHANAMTHITTA,Rural,SS (VI-X),Department of Education,7,36,0
+PATHANAMTHITTA,Urban ,SS (VI-X),Department of Education,5,12,0
+PATHANAMTHITTA,Rural,UPS (I-VIII) ,Department of Education,3066,0,0
+PATHANAMTHITTA,Urban ,UPS (I-VIII) ,Department of Education,1353,0,0
+PATHANAMTHITTA,Rural,UPS (VI-VIII) ,Department of Education,11,0,0
+PATHANAMTHITTA,Urban ,UPS (VI-VIII) ,Department of Education,10,0,0
+PATHANAMTHITTA,Rural,HSS (I-XII),Government Aided,885,655,1009
+PATHANAMTHITTA,Urban ,HSS (I-XII),Government Aided,25,23,44
+PATHANAMTHITTA,Rural,HSS (IX-XII),Government Aided,0,596,1076
+PATHANAMTHITTA,Urban ,HSS (IX-XII),Government Aided,0,733,706
+PATHANAMTHITTA,Rural, HSS (VI-XII),Government Aided,1711,6825,11292
+PATHANAMTHITTA,Urban , HSS (VI-XII),Government Aided,546,2503,3314
+PATHANAMTHITTA,Rural,HSS (XI-XII),Government Aided,0,0,211
+PATHANAMTHITTA,Rural,PS (I-V) ,Government Aided,5835,0,0
+PATHANAMTHITTA,Urban ,PS (I-V) ,Government Aided,926,0,0
+PATHANAMTHITTA,Rural, SS (I-X) ,Government Aided,709,426,0
+PATHANAMTHITTA,Urban , SS (I-X) ,Government Aided,86,34,0
+PATHANAMTHITTA,Rural,SS (IX-X),Government Aided,0,660,0
+PATHANAMTHITTA,Rural,SS (VI-X),Government Aided,979,3483,0
+PATHANAMTHITTA,Urban ,SS (VI-X),Government Aided,217,998,0
+PATHANAMTHITTA,Rural,UPS (I-VIII) ,Government Aided,3530,0,0
+PATHANAMTHITTA,Urban ,UPS (I-VIII) ,Government Aided,909,0,0
+PATHANAMTHITTA,Rural,UPS (VI-VIII) ,Government Aided,1018,0,0
+PATHANAMTHITTA,Urban ,UPS (VI-VIII) ,Government Aided,30,0,0
+PATHANAMTHITTA,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,158,153
+PATHANAMTHITTA,Rural,HSS (I-XII),Kendriya Vidyalaya / Central School,1723,618,450
+PATHANAMTHITTA,Rural, SS (I-X) ,Kendriya Vidyalaya / Central School,238,0,0
+PATHANAMTHITTA,Rural,HSS (I-XII),Private Unaided (Recognized),8045,2450,2003
+PATHANAMTHITTA,Urban ,HSS (I-XII),Private Unaided (Recognized),7223,2967,2105
+PATHANAMTHITTA,Urban , HSS (VI-XII),Private Unaided (Recognized),3,27,83
+PATHANAMTHITTA,Rural,PS (I-V) ,Private Unaided (Recognized),2395,0,0
+PATHANAMTHITTA,Urban ,PS (I-V) ,Private Unaided (Recognized),492,0,0
+PATHANAMTHITTA,Rural, SS (I-X) ,Private Unaided (Recognized),5404,1213,0
+PATHANAMTHITTA,Urban , SS (I-X) ,Private Unaided (Recognized),850,224,0
+PATHANAMTHITTA,Rural,UPS (I-VIII) ,Private Unaided (Recognized),2033,0,0
+PATHANAMTHITTA,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),653,0,0
+PATHANAMTHITTA,Rural, HSS (VI-XII),Tribal Welfare Department,13,46,52
+PATHANAMTHITTA,Rural,PS (I-V) ,Unrecognized,1005,0,0
+PATHANAMTHITTA,Urban ,PS (I-V) ,Unrecognized,341,0,0
+PATHANAMTHITTA,Rural, SS (I-X) ,Unrecognized,421,13,0
+PATHANAMTHITTA,Urban , SS (I-X) ,Unrecognized,194,0,0
+PATHANAMTHITTA,Rural,UPS (I-VIII) ,Unrecognized,1311,0,0
+PATHANAMTHITTA,Urban ,UPS (I-VIII) ,Unrecognized,364,0,0
+THIRUVANANTHAPURAM,Rural,HSS (I-XII),Department of Education,5544,5155,6464
+THIRUVANANTHAPURAM,Urban ,HSS (I-XII),Department of Education,1365,682,1723
+THIRUVANANTHAPURAM,Rural,HSS (IX-XII),Department of Education,0,2391,3072
+THIRUVANANTHAPURAM,Urban ,HSS (IX-XII),Department of Education,0,335,874
+THIRUVANANTHAPURAM,Rural, HSS (VI-XII),Department of Education,3043,11264,11708
+THIRUVANANTHAPURAM,Urban , HSS (VI-XII),Department of Education,1454,6672,10264
+THIRUVANANTHAPURAM,Urban ,HSS (XI-XII),Department of Education,0,0,164
+THIRUVANANTHAPURAM,Rural,PS (I-V) ,Department of Education,23078,0,0
+THIRUVANANTHAPURAM,Urban ,PS (I-V) ,Department of Education,7947,0,0
+THIRUVANANTHAPURAM,Rural, SS (I-X) ,Department of Education,2791,2112,0
+THIRUVANANTHAPURAM,Urban , SS (I-X) ,Department of Education,2286,1668,0
+THIRUVANANTHAPURAM,Rural,SS (IX-X),Department of Education,0,91,0
+THIRUVANANTHAPURAM,Urban ,SS (IX-X),Department of Education,0,90,0
+THIRUVANANTHAPURAM,Rural,SS (VI-X),Department of Education,164,465,0
+THIRUVANANTHAPURAM,Urban ,SS (VI-X),Department of Education,71,153,0
+THIRUVANANTHAPURAM,Rural,UPS (I-VIII) ,Department of Education,19753,0,0
+THIRUVANANTHAPURAM,Urban ,UPS (I-VIII) ,Department of Education,7440,0,0
+THIRUVANANTHAPURAM,Rural,UPS (VI-VIII) ,Department of Education,210,0,0
+THIRUVANANTHAPURAM,Urban ,UPS (VI-VIII) ,Department of Education,99,0,0
+THIRUVANANTHAPURAM,Rural,HSS (I-XII),Government Aided,1403,1240,1583
+THIRUVANANTHAPURAM,Urban ,HSS (I-XII),Government Aided,998,660,676
+THIRUVANANTHAPURAM,Rural,HSS (IX-XII),Government Aided,0,930,2094
+THIRUVANANTHAPURAM,Urban ,HSS (IX-XII),Government Aided,0,927,2636
+THIRUVANANTHAPURAM,Rural, HSS (VI-XII),Government Aided,2919,12530,11459
+THIRUVANANTHAPURAM,Urban , HSS (VI-XII),Government Aided,2375,7610,10192
+THIRUVANANTHAPURAM,Rural,PS (I-V) ,Government Aided,15518,0,0
+THIRUVANANTHAPURAM,Urban ,PS (I-V) ,Government Aided,4983,0,0
+THIRUVANANTHAPURAM,Rural, SS (I-X) ,Government Aided,865,457,0
+THIRUVANANTHAPURAM,Urban , SS (I-X) ,Government Aided,1097,510,0
+THIRUVANANTHAPURAM,Rural,SS (IX-X),Government Aided,0,2441,0
+THIRUVANANTHAPURAM,Rural,SS (VI-X),Government Aided,817,3208,0
+THIRUVANANTHAPURAM,Urban ,SS (VI-X),Government Aided,477,1011,0
+THIRUVANANTHAPURAM,Rural,UPS (I-VIII) ,Government Aided,6552,0,0
+THIRUVANANTHAPURAM,Urban ,UPS (I-VIII) ,Government Aided,1073,0,0
+THIRUVANANTHAPURAM,Rural,UPS (VI-VIII) ,Government Aided,3030,0,0
+THIRUVANANTHAPURAM,Urban ,UPS (VI-VIII) ,Government Aided,264,0,0
+THIRUVANANTHAPURAM,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,160,116
+THIRUVANANTHAPURAM,Rural,HSS (I-XII),Kendriya Vidyalaya / Central School,650,231,189
+THIRUVANANTHAPURAM,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,4219,1497,1320
+THIRUVANANTHAPURAM,Urban ,HSS (I-XII),Local body,14,30,103
+THIRUVANANTHAPURAM,Rural,PS (I-V) ,Local body,30,0,0
+THIRUVANANTHAPURAM,Rural, SS (I-X) ,Local body,21,6,0
+THIRUVANANTHAPURAM,Rural,PS (I-V) ,Other Govt. managed schools,118,0,0
+THIRUVANANTHAPURAM,Rural,HSS (I-XII),Private Unaided (Recognized),17152,5291,3609
+THIRUVANANTHAPURAM,Urban ,HSS (I-XII),Private Unaided (Recognized),34765,13045,10514
+THIRUVANANTHAPURAM,Rural,HSS (IX-XII),Private Unaided (Recognized),0,156,108
+THIRUVANANTHAPURAM,Urban ,HSS (IX-XII),Private Unaided (Recognized),0,107,211
+THIRUVANANTHAPURAM,Rural, HSS (VI-XII),Private Unaided (Recognized),41,177,163
+THIRUVANANTHAPURAM,Urban , HSS (VI-XII),Private Unaided (Recognized),61,196,684
+THIRUVANANTHAPURAM,Rural,HSS (XI-XII),Private Unaided (Recognized),0,0,566
+THIRUVANANTHAPURAM,Urban ,HSS (XI-XII),Private Unaided (Recognized),0,0,129
+THIRUVANANTHAPURAM,Rural,PS (I-V) ,Private Unaided (Recognized),3374,0,0
+THIRUVANANTHAPURAM,Urban ,PS (I-V) ,Private Unaided (Recognized),1832,0,0
+THIRUVANANTHAPURAM,Rural, SS (I-X) ,Private Unaided (Recognized),11146,2820,0
+THIRUVANANTHAPURAM,Urban , SS (I-X) ,Private Unaided (Recognized),4776,992,0
+THIRUVANANTHAPURAM,Rural,SS (VI-X),Private Unaided (Recognized),38,0,0
+THIRUVANANTHAPURAM,Rural,UPS (I-VIII) ,Private Unaided (Recognized),4555,0,0
+THIRUVANANTHAPURAM,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),2524,0,0
+THIRUVANANTHAPURAM,Urban ,UPS (VI-VIII) ,Private Unaided (Recognized),10,0,0
+THIRUVANANTHAPURAM,Urban , HSS (VI-XII),Sainik School,0,193,189
+THIRUVANANTHAPURAM,Rural,HSS (I-XII),Tribal Welfare Department,156,66,25
+THIRUVANANTHAPURAM,Urban ,HSS (I-XII),Unrecognized,28,12,15
+THIRUVANANTHAPURAM,Rural,PS (I-V) ,Unrecognized,1134,0,0
+THIRUVANANTHAPURAM,Urban ,PS (I-V) ,Unrecognized,1539,0,0
+THIRUVANANTHAPURAM,Rural, SS (I-X) ,Unrecognized,2615,73,0
+THIRUVANANTHAPURAM,Urban , SS (I-X) ,Unrecognized,657,49,0
+THIRUVANANTHAPURAM,Rural,SS (IX-X),Unrecognized,0,39,0
+THIRUVANANTHAPURAM,Rural,UPS (I-VIII) ,Unrecognized,4231,0,0
+THIRUVANANTHAPURAM,Urban ,UPS (I-VIII) ,Unrecognized,1238,0,0
+THRISSUR,Rural,HSS (I-XII),Department of Education,4055,3046,6248
+THRISSUR,Urban ,HSS (I-XII),Department of Education,861,612,1507
+THRISSUR,Rural,HSS (IX-XII),Department of Education,0,383,879
+THRISSUR,Urban ,HSS (IX-XII),Department of Education,0,658,705
+THRISSUR,Rural, HSS (VI-XII),Department of Education,2575,8581,11771
+THRISSUR,Urban , HSS (VI-XII),Department of Education,483,2131,6509
+THRISSUR,Rural,HSS (XI-XII),Department of Education,0,0,85
+THRISSUR,Rural,PS (I-V) ,Department of Education,10908,0,0
+THRISSUR,Urban ,PS (I-V) ,Department of Education,2054,0,0
+THRISSUR,Rural, SS (I-X) ,Department of Education,310,244,0
+THRISSUR,Urban ,SS (IX-X),Department of Education,0,60,0
+THRISSUR,Rural,SS (VI-X),Department of Education,36,237,0
+THRISSUR,Urban ,SS (VI-X),Department of Education,74,508,0
+THRISSUR,Rural,UPS (I-VIII) ,Department of Education,6889,0,0
+THRISSUR,Urban ,UPS (I-VIII) ,Department of Education,1469,0,0
+THRISSUR,Rural,UPS (VI-VIII) ,Department of Education,152,0,0
+THRISSUR,Rural,HSS (I-XII),Government Aided,3117,3128,2405
+THRISSUR,Urban ,HSS (I-XII),Government Aided,1474,1242,841
+THRISSUR,Rural,HSS (IX-XII),Government Aided,0,6340,7039
+THRISSUR,Urban ,HSS (IX-XII),Government Aided,0,1046,869
+THRISSUR,Rural, HSS (VI-XII),Government Aided,4879,16683,17861
+THRISSUR,Urban , HSS (VI-XII),Government Aided,3001,9197,9912
+THRISSUR,Rural,PS (I-V) ,Government Aided,35532,0,0
+THRISSUR,Urban ,PS (I-V) ,Government Aided,12788,0,0
+THRISSUR,Rural, SS (I-X) ,Government Aided,2228,1600,0
+THRISSUR,Urban , SS (I-X) ,Government Aided,1927,1023,0
+THRISSUR,Rural,SS (IX-X),Government Aided,0,1416,0
+THRISSUR,Urban ,SS (IX-X),Government Aided,0,84,0
+THRISSUR,Rural,SS (VI-X),Government Aided,1805,5137,0
+THRISSUR,Urban ,SS (VI-X),Government Aided,791,1892,0
+THRISSUR,Rural,UPS (I-VIII) ,Government Aided,24100,0,0
+THRISSUR,Urban ,UPS (I-VIII) ,Government Aided,6119,0,0
+THRISSUR,Rural,UPS (VI-VIII) ,Government Aided,1798,0,0
+THRISSUR,Urban ,UPS (VI-VIII) ,Government Aided,706,0,0
+THRISSUR,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,158,159
+THRISSUR,Rural,HSS (I-XII),Kendriya Vidyalaya / Central School,976,398,365
+THRISSUR,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,275,101,60
+THRISSUR,Rural,PS (I-V) ,Local body,45,0,0
+THRISSUR,Rural,UPS (I-VIII) ,Local body,15,0,0
+THRISSUR,Rural,PS (I-V) ,Other Govt. managed schools,1,0,0
+THRISSUR,Rural,HSS (I-XII),Private Unaided (Recognized),30463,10200,7171
+THRISSUR,Urban ,HSS (I-XII),Private Unaided (Recognized),17241,6144,4616
+THRISSUR,Rural,HSS (IX-XII),Private Unaided (Recognized),0,12,56
+THRISSUR,Urban , HSS (VI-XII),Private Unaided (Recognized),245,643,507
+THRISSUR,Urban ,HSS (XI-XII),Private Unaided (Recognized),0,0,285
+THRISSUR,Rural,PS (I-V) ,Private Unaided (Recognized),4035,0,0
+THRISSUR,Urban ,PS (I-V) ,Private Unaided (Recognized),3690,0,0
+THRISSUR,Rural, SS (I-X) ,Private Unaided (Recognized),17663,3723,0
+THRISSUR,Urban , SS (I-X) ,Private Unaided (Recognized),4119,703,0
+THRISSUR,Rural,SS (IX-X),Private Unaided (Recognized),0,40,0
+THRISSUR,Urban ,SS (IX-X),Private Unaided (Recognized),0,242,0
+THRISSUR,Rural,UPS (I-VIII) ,Private Unaided (Recognized),2560,0,0
+THRISSUR,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),827,0,0
+THRISSUR,Rural,UPS (VI-VIII) ,Private Unaided (Recognized),17,0,0
+THRISSUR,Rural, HSS (VI-XII),Tribal Welfare Department,35,67,96
+THRISSUR,Urban , HSS (VI-XII),Tribal Welfare Department,15,57,30
+THRISSUR,Rural,SS (VI-X),Tribal Welfare Department,13,28,0
+THRISSUR,Urban ,HSS (I-XII),Unrecognized,10,21,36
+THRISSUR,Rural,HSS (XI-XII),Unrecognized,0,0,22
+THRISSUR,Rural,PS (I-V) ,Unrecognized,872,0,0
+THRISSUR,Rural, SS (I-X) ,Unrecognized,182,0,0
+THRISSUR,Urban , SS (I-X) ,Unrecognized,72,0,0
+THRISSUR,Rural,UPS (I-VIII) ,Unrecognized,455,0,0
+THRISSUR,Urban ,UPS (I-VIII) ,Unrecognized,165,0,0
+WAYANAD,Rural,HSS (I-XII),Department of Education,5213,4218,5352
+WAYANAD,Urban ,HSS (I-XII),Department of Education,525,417,599
+WAYANAD,Rural,HSS (IX-XII),Department of Education,0,2528,3877
+WAYANAD,Urban ,HSS (IX-XII),Department of Education,0,167,239
+WAYANAD,Rural, HSS (VI-XII),Department of Education,736,2691,2719
+WAYANAD,Urban , HSS (VI-XII),Department of Education,81,1039,1186
+WAYANAD,Rural,PS (I-V) ,Department of Education,8310,0,0
+WAYANAD,Urban ,PS (I-V) ,Department of Education,561,0,0
+WAYANAD,Rural, SS (I-X) ,Department of Education,3506,1751,0
+WAYANAD,Urban , SS (I-X) ,Department of Education,1236,604,0
+WAYANAD,Rural,SS (IX-X),Department of Education,0,107,0
+WAYANAD,Rural,SS (VI-X),Department of Education,63,131,0
+WAYANAD,Rural,UPS (I-VIII) ,Department of Education,4783,0,0
+WAYANAD,Urban ,UPS (I-VIII) ,Department of Education,703,0,0
+WAYANAD,Rural,HSS (I-XII),Government Aided,987,590,580
+WAYANAD,Urban ,HSS (I-XII),Government Aided,462,325,528
+WAYANAD,Rural,HSS (IX-XII),Government Aided,0,4378,3738
+WAYANAD,Urban ,HSS (IX-XII),Government Aided,0,754,619
+WAYANAD,Rural, HSS (VI-XII),Government Aided,515,1676,1612
+WAYANAD,Urban , HSS (VI-XII),Government Aided,136,338,357
+WAYANAD,Rural,PS (I-V) ,Government Aided,5734,0,0
+WAYANAD,Urban ,PS (I-V) ,Government Aided,765,0,0
+WAYANAD,Rural, SS (I-X) ,Government Aided,23,11,0
+WAYANAD,Rural,SS (IX-X),Government Aided,0,894,0
+WAYANAD,Urban ,SS (IX-X),Government Aided,0,601,0
+WAYANAD,Rural,UPS (I-VIII) ,Government Aided,12085,0,0
+WAYANAD,Urban ,UPS (I-VIII) ,Government Aided,3522,0,0
+WAYANAD,Rural,UPS (VI-VIII) ,Government Aided,571,0,0
+WAYANAD,Rural, HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,158,137
+WAYANAD,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,287,88,74
+WAYANAD,Rural,PS (I-V) ,Other Govt. managed schools,392,0,0
+WAYANAD,Urban ,PS (I-V) ,Other Govt. managed schools,17,0,0
+WAYANAD,Rural,HSS (I-XII),Private Unaided (Recognized),1145,285,356
+WAYANAD,Urban ,HSS (I-XII),Private Unaided (Recognized),3261,1037,869
+WAYANAD,Rural,PS (I-V) ,Private Unaided (Recognized),820,0,0
+WAYANAD,Urban ,PS (I-V) ,Private Unaided (Recognized),198,0,0
+WAYANAD,Rural, SS (I-X) ,Private Unaided (Recognized),4682,698,0
+WAYANAD,Urban , SS (I-X) ,Private Unaided (Recognized),2169,394,0
+WAYANAD,Rural,SS (IX-X),Private Unaided (Recognized),0,77,0
+WAYANAD,Rural,SS (VI-X),Private Unaided (Recognized),111,223,0
+WAYANAD,Rural,UPS (I-VIII) ,Private Unaided (Recognized),1833,0,0
+WAYANAD,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),370,0,0
+WAYANAD,Rural,HSS (I-XII),Tribal Welfare Department,165,76,147
+WAYANAD,Rural, HSS (VI-XII),Tribal Welfare Department,70,141,305
+WAYANAD,Rural, SS (I-X) ,Tribal Welfare Department,50,83,0
+WAYANAD,Rural,SS (VI-X),Tribal Welfare Department,0,120,0
+WAYANAD,Rural,PS (I-V) ,Unrecognized,103,0,0
+WAYANAD,Urban ,PS (I-V) ,Unrecognized,48,0,0
+WAYANAD,Rural, SS (I-X) ,Unrecognized,269,39,0
+WAYANAD,Rural,UPS (I-VIII) ,Unrecognized,513,0,0
+Total,,,,2486240,996090,871615

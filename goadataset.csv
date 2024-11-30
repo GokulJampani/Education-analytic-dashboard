@@ -1,0 +1,72 @@
+Location,Rural/Urban,School Category ,School Management,Primary (I-V),Secondary (IX-X),Higher Secondary (XI-XII)
+NORTH GOA,Urban ,HSS (XI-XII),Department of Education,0,0,1682
+NORTH GOA,Rural,PS (I-V) ,Department of Education,7438,0,0
+NORTH GOA,Urban ,PS (I-V) ,Department of Education,1002,0,0
+NORTH GOA,Rural,SS (IX-X),Department of Education,0,0,0
+NORTH GOA,Urban ,SS (IX-X),Department of Education,0,155,0
+NORTH GOA,Rural,SS (VI-X),Department of Education,833,1810,0
+NORTH GOA,Urban ,SS (VI-X),Department of Education,46,76,0
+NORTH GOA,Rural,UPS (I-VIII) ,Department of Education,647,0,0
+NORTH GOA,Urban ,UPS (I-VIII) ,Department of Education,349,0,0
+NORTH GOA,Rural,HSS (I-XII),Government Aided,113,38,36
+NORTH GOA,Rural,HSS (XI-XII),Government Aided,0,0,10394
+NORTH GOA,Urban ,HSS (XI-XII),Government Aided,0,0,5421
+NORTH GOA,Rural,PS (I-V) ,Government Aided,5955,0,0
+NORTH GOA,Urban ,PS (I-V) ,Government Aided,3397,0,0
+NORTH GOA,Rural, SS (I-X) ,Government Aided,12905,5805,0
+NORTH GOA,Urban , SS (I-X) ,Government Aided,5954,3168,0
+NORTH GOA,Rural,SS (IX-X),Government Aided,0,0,0
+NORTH GOA,Urban ,SS (IX-X),Government Aided,0,25,0
+NORTH GOA,Rural,SS (VI-X),Government Aided,2830,5800,0
+NORTH GOA,Urban ,SS (VI-X),Government Aided,1363,2964,0
+NORTH GOA,Rural,UPS (I-VIII) ,Government Aided,222,0,0
+NORTH GOA,Urban ,UPS (I-VIII) ,Government Aided,130,0,0
+NORTH GOA,Rural,UPS (VI-VIII) ,Government Aided,79,0,0
+NORTH GOA,Urban ,UPS (VI-VIII) ,Government Aided,15,0,0
+NORTH GOA,Urban , HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,111,37
+NORTH GOA,Rural,HSS (I-XII),Kendriya Vidyalaya / Central School,768,294,210
+NORTH GOA,Rural,HSS (I-XII),Private Unaided (Recognized),429,171,161
+NORTH GOA,Urban ,HSS (I-XII),Private Unaided (Recognized),837,368,190
+NORTH GOA,Rural,HSS (XI-XII),Private Unaided (Recognized),0,0,360
+NORTH GOA,Urban ,HSS (XI-XII),Private Unaided (Recognized),0,0,76
+NORTH GOA,Rural,PS (I-V) ,Private Unaided (Recognized),3692,0,0
+NORTH GOA,Urban ,PS (I-V) ,Private Unaided (Recognized),3278,0,0
+NORTH GOA,Rural, SS (I-X) ,Private Unaided (Recognized),1049,164,0
+NORTH GOA,Urban , SS (I-X) ,Private Unaided (Recognized),83,18,0
+NORTH GOA,Rural,SS (VI-X),Private Unaided (Recognized),16,17,0
+NORTH GOA,Rural,UPS (I-VIII) ,Private Unaided (Recognized),433,0,0
+NORTH GOA,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),73,0,0
+SOUTH GOA,Rural,HSS (XI-XII),Department of Education,0,0,752
+SOUTH GOA,Urban ,HSS (XI-XII),Department of Education,0,0,1759
+SOUTH GOA,Rural,PS (I-V) ,Department of Education,7781,0,0
+SOUTH GOA,Urban ,PS (I-V) ,Department of Education,2076,0,0
+SOUTH GOA,Rural,SS (VI-X),Department of Education,720,1497,0
+SOUTH GOA,Urban ,SS (VI-X),Department of Education,266,578,0
+SOUTH GOA,Rural,UPS (I-VIII) ,Department of Education,526,0,0
+SOUTH GOA,Urban ,UPS (I-VIII) ,Department of Education,139,0,0
+SOUTH GOA,Rural,HSS (XI-XII),Government Aided,0,0,12985
+SOUTH GOA,Urban ,HSS (XI-XII),Government Aided,0,0,6573
+SOUTH GOA,Rural,PS (I-V) ,Government Aided,5066,0,0
+SOUTH GOA,Urban ,PS (I-V) ,Government Aided,2371,0,0
+SOUTH GOA,Rural, SS (I-X) ,Government Aided,16297,7673,0
+SOUTH GOA,Urban , SS (I-X) ,Government Aided,11234,5444,0
+SOUTH GOA,Rural,SS (VI-X),Government Aided,2332,4450,0
+SOUTH GOA,Urban ,SS (VI-X),Government Aided,1749,4035,0
+SOUTH GOA,Rural,UPS (I-VIII) ,Government Aided,855,0,0
+SOUTH GOA,Urban ,UPS (I-VIII) ,Government Aided,414,0,0
+SOUTH GOA,Rural,UPS (VI-VIII) ,Government Aided,56,0,0
+SOUTH GOA,Urban , HSS (VI-XII),Jawahar Navodaya Vidyalaya ,0,162,90
+SOUTH GOA,Rural,HSS (I-XII),Kendriya Vidyalaya / Central School,246,84,62
+SOUTH GOA,Urban ,HSS (I-XII),Kendriya Vidyalaya / Central School,1096,397,327
+SOUTH GOA,Rural,HSS (I-XII),Private Unaided (Recognized),1708,709,542
+SOUTH GOA,Urban ,HSS (I-XII),Private Unaided (Recognized),833,292,171
+SOUTH GOA,Rural,HSS (XI-XII),Private Unaided (Recognized),0,0,36
+SOUTH GOA,Urban ,HSS (XI-XII),Private Unaided (Recognized),0,0,30
+SOUTH GOA,Rural,PS (I-V) ,Private Unaided (Recognized),3137,0,0
+SOUTH GOA,Urban ,PS (I-V) ,Private Unaided (Recognized),5928,0,0
+SOUTH GOA,Rural, SS (I-X) ,Private Unaided (Recognized),508,123,0
+SOUTH GOA,Urban , SS (I-X) ,Private Unaided (Recognized),1625,352,0
+SOUTH GOA,Rural,SS (VI-X),Private Unaided (Recognized),38,31,0
+SOUTH GOA,Urban ,SS (VI-X),Private Unaided (Recognized),99,55,0
+SOUTH GOA,Urban ,UPS (I-VIII) ,Private Unaided (Recognized),320,0,0
+Total,,,,121356,46866,41894
